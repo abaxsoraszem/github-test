@@ -1,0 +1,527 @@
+	Startdatum	Startort	Strasse	Zielort	Strasse	Startkilometer	Endkilometer	Strecke	Priv/Business	Person/Firma	Zweck	Ankunftsdatum			
+6	01.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	92028	92032	4	Privat			01.01.2011	6		
+7	02.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	92032	92038	6	Privat			02.01.2011	7		
+1	03.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92038	92061	23	Business	ECSM Kunde	Risk Projekt	03.01.2011	1		
+1	03.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92061	92084	23	Rückfahrt	Rückfahrt	Rückfahrt	03.01.2011	1		
+2	04.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92084	92106	22	Business	ECSM Kunde	Risk Projekt	04.01.2011	2		
+2	04.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92106	92129	23	Rückfahrt	Rückfahrt	Rückfahrt	04.01.2011	2		
+3	05.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92129	92152	23	Business	ECSM Kunde	Risk Projekt	05.01.2011	3		
+3	05.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92152	92174	22	Rückfahrt	Rückfahrt	Rückfahrt	05.01.2011	3		
+4	06.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92174	92196	22	Business	ECSM Kunde	Risk Projekt	06.01.2011	4		
+4	06.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92196	92219	23	Rückfahrt	Rückfahrt	Rückfahrt	06.01.2011	4		
+5	07.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92219	92242	23	Business	ECSM Kunde	Risk Projekt	07.01.2011	5		
+5	07.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92242	92267	25	Rückfahrt	Rückfahrt	Rückfahrt	07.01.2011	5		
+6	08.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	92267	92273	6	Privat			08.01.2011	6		
+7	09.01.2011	Oberursel	Tannenweg	Frankfurt	Flughafen	92273	92302	29	Business	Flughafen	ECSM Auftraggeber abholen	09.01.2011	7		
+7	09.01.2011	Frankfurt	Flughafen	Oberursel	Tannenweg	92302	92330	28	Rückfahrt	Rückfahrt	Rückfahrt	09.01.2011	7		
+1	10.01.2011	Oberursel	Tannenweg	Frankfurt	Karl von Dreis strasse	92330	92345	15	Business	BMW	Reparatur	10.01.2011	1		
+1	10.01.2011	Frankfurt	Karl von Dreis strasse	Oberursel	Tannenweg	92345	92361	16	Rückfahrt	Rückfahrt	Rückfahrt	10.01.2011	1		
+2	11.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92361	92384	23	Business	ECSM Kunde	Risk Projekt	11.01.2011	2		
+2	11.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92384	92408	24	Rückfahrt	Rückfahrt	Rückfahrt	11.01.2011	2		
+3	12.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92408	92431	23	Business	ECSM Kunde	Risk Projekt	12.01.2011	3		
+3	12.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92431	92454	23	Rückfahrt	Rückfahrt	Rückfahrt	12.01.2011	3		
+4	13.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92454	92479	25	Business	ECSM Kunde	Risk Projekt	13.01.2011	4		
+4	13.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92479	92502	23	Rückfahrt	Rückfahrt	Rückfahrt	13.01.2011	4		
+5	14.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92502	92526	24	Business	ECSM Kunde	Risk Projekt	14.01.2011	5		
+5	14.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92526	92550	24	Rückfahrt	Rückfahrt	Rückfahrt	14.01.2011	5		
+6	15.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	92550	92568	18	Privat			15.01.2011	6		
+1	17.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92568	92592	24	Business	ECSM Kunde	Risk Projekt	17.01.2011	1		
+1	17.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92592	92615	23	Rückfahrt	Rückfahrt	Rückfahrt	17.01.2011	1		
+2	18.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92615	92638	23	Business	ECSM Kunde	Risk Projekt	18.01.2011	2		
+2	18.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92638	92661	23	Rückfahrt	Rückfahrt	Rückfahrt	18.01.2011	2		
+3	19.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92661	92684	23	Business	ECSM Kunde	Risk Projekt	19.01.2011	3		
+3	19.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92684	92708	24	Rückfahrt	Rückfahrt	Rückfahrt	19.01.2011	3		
+4	20.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92708	92733	25	Business	ECSM Kunde	Risk Projekt	20.01.2011	4		
+4	20.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92733	92757	24	Rückfahrt	Rückfahrt	Rückfahrt	20.01.2011	4		
+5	21.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92757	92781	24	Business	ECSM Kunde	Risk Projekt	21.01.2011	5		
+5	21.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92781	92804	23	Rückfahrt	Rückfahrt	Rückfahrt	21.01.2011	5		
+6	22.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	92804	92813	9	Privat			22.01.2011	6		
+1	24.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92813	92836	23	Business	ECSM Kunde	Risk Projekt	24.01.2011	1		
+1	24.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92836	92859	23	Rückfahrt	Rückfahrt	Rückfahrt	24.01.2011	1		
+2	25.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92859	92881	22	Business	ECSM Kunde	Risk Projekt	25.01.2011	2		
+2	25.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92881	92904	23	Rückfahrt	Rückfahrt	Rückfahrt	25.01.2011	2		
+3	26.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92904	92927	23	Business	ECSM Kunde	Risk Projekt	26.01.2011	3		
+3	26.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92927	92949	22	Rückfahrt	Rückfahrt	Rückfahrt	26.01.2011	3		
+4	27.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92949	92971	22	Business	ECSM Kunde	Risk Projekt	27.01.2011	4		
+4	27.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	92971	92994	23	Rückfahrt	Rückfahrt	Rückfahrt	27.01.2011	4		
+5	28.01.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	92994	93017	23	Business	ECSM Kunde	Risk Projekt	28.01.2011	5		
+5	28.01.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93017	93042	25	Rückfahrt	Rückfahrt	Rückfahrt	28.01.2011	5		
+6	29.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	93042	93048	6	Privat			29.01.2011	6		
+7	30.01.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	93048	93103	55	Privat	Rückfahrt	Rückfahrt	30.01.2011	7		
+1	31.01.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	93103	93126	23	Business	ECSM Kunde	Risk Projekt	31.01.2011	1		
+1	31.01.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	93126	93149	23	Rückfahrt	Rückfahrt	Rückfahrt	31.01.2011	1		
+2	01.02.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	93149	93171	22	Business	ECSM Kunde	Risk Projekt	01.02.2011	2		
+2	01.02.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	93171	93195	24	Rückfahrt	Rückfahrt	Rückfahrt	01.02.2011	2		
+3	02.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93195	93218	23	Business	ECSM Kunde	Risk Projekt	02.02.2011	3		
+3	02.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93218	93240	22	Rückfahrt	Rückfahrt	Rückfahrt	02.02.2011	3		
+4	03.02.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	93240	93262	22	Business	ECSM Kunde	Risk Projekt	03.02.2011	4		
+4	03.02.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	93262	93285	23	Rückfahrt	Rückfahrt	Rückfahrt	03.02.2011	4		
+5	04.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93285	93308	23	Business	ECSM Kunde	Risk Projekt	04.02.2011	5		
+5	04.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93308	93333	25	Rückfahrt	Rückfahrt	Rückfahrt	04.02.2011	5		
+5	04.02.2011	Oberursel	Tannenweg	Frankfurt	Flughafen	93333	93368	35	Business	Flughafen über A8	ECSM Partner abholen	04.02.2011	5		
+5	04.02.2011	Frankfurt	Flughafen	Oberursel	Tannenweg	93368	93402	34	Rückfahrt	Rückfahrt	Rückfahrt	04.02.2011	5		
+7	06.02.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	93402	93457	55	Privat			06.02.2011	7		
+1	07.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93457	93480	23	Business	ECSM Kunde	Risk Projekt	07.02.2011	1		
+1	07.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93480	93503	23	Rückfahrt	Rückfahrt	Rückfahrt	07.02.2011	1		
+2	08.02.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	93503	93525	22	Business	ECSM Kunde	Risk Projekt	08.02.2011	2		
+2	08.02.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	93525	93550	25	Rückfahrt	Rückfahrt	Rückfahrt	08.02.2011	2		
+3	09.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93550	93573	23	Business	ECSM Kunde	Risk Projekt	09.02.2011	3		
+3	09.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93573	93595	22	Rückfahrt	Rückfahrt	Rückfahrt	09.02.2011	3		
+4	10.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93595	93617	22	Business	ECSM Kunde	Risk Projekt	10.02.2011	4		
+4	10.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93617	93640	23	Rückfahrt	Rückfahrt	Rückfahrt	10.02.2011	4		
+5	11.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93640	93663	23	Business	ECSM Kunde	Risk Projekt	11.02.2011	5		
+5	11.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93663	93687	24	Rückfahrt	Rückfahrt	Rückfahrt	11.02.2011	5		
+1	14.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93687	93710	23	Business	ECSM Kunde	Risk Projekt	14.02.2011	1		
+1	14.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93710	93733	23	Rückfahrt	Rückfahrt	Rückfahrt	14.02.2011	1		
+2	15.02.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	93733	93755	22	Business	ECSM Kunde	Risk Projekt	15.02.2011	2		
+2	15.02.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	93755	93779	24	Rückfahrt	Rückfahrt	Rückfahrt	15.02.2011	2		
+3	16.02.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	93779	93802	23	Business	ECSM Kunde	Risk Projekt	16.02.2011	3		
+3	16.02.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	93802	93826	24	Rückfahrt	Rückfahrt	Rückfahrt	16.02.2011	3		
+4	17.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93826	93849	23	Business	ECSM Kunde	Risk Projekt	17.02.2011	4		
+4	17.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93849	93872	23	Rückfahrt	Rückfahrt	Rückfahrt	17.02.2011	4		
+5	18.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93872	93895	23	Business	ECSM Kunde	Risk Projekt	18.02.2011	5		
+5	18.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93895	93918	23	Rückfahrt	Rückfahrt	Rückfahrt	18.02.2011	5		
+6	19.02.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	93918	93932	14	Privat			19.02.2011	6		
+1	21.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93932	93955	23	Business	ECSM Kunde	Risk Projekt	21.02.2011	1		
+1	21.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	93955	93978	23	Rückfahrt	Rückfahrt	Rückfahrt	21.02.2011	1		
+2	22.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	93978	94000	22	Business	ECSM Kunde	Risk Projekt	22.02.2011	2		
+2	22.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94000	94025	25	Rückfahrt	Rückfahrt	Rückfahrt	22.02.2011	2		
+3	23.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94025	94048	23	Business	ECSM Kunde	Risk Projekt	23.02.2011	3		
+3	23.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94048	94072	24	Rückfahrt	Rückfahrt	Rückfahrt	23.02.2011	3		
+4	24.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94072	94094	22	Business	ECSM Kunde	Risk Projekt	24.02.2011	4		
+4	24.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94094	94117	23	Rückfahrt	Rückfahrt	Rückfahrt	24.02.2011	4		
+5	25.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94117	94140	23	Business	ECSM Kunde	Risk Projekt	25.02.2011	5		
+5	25.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94140	94165	25	Rückfahrt	Rückfahrt	Rückfahrt	25.02.2011	5		
+1	28.02.2011	Oberursel	Tannenweg	Hahn	Flughafen	94165	94293	128	Business	Flughafen	ECSM Partner abholen	28.02.2011	1		
+1	28.02.2011	Hahn	Flughafen	Oberursel	Tannenweg	94293	94427	134	Rückfahrt	Rückfahrt	Rückfahrt	28.02.2011	1		
+1	28.02.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94427	94450	23	Business	ECSM Kunde	Risk Projekt	28.02.2011	1		
+1	28.02.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94450	94473	23	Rückfahrt	Rückfahrt	Rückfahrt	28.02.2011	1		
+2	01.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94473	94497	24	Business	ECSM Kunde	Risk Projekt	01.03.2011	2		
+2	01.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94497	94521	24	Rückfahrt	Rückfahrt	Rückfahrt	01.03.2011	2		
+3	02.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94521	94544	23	Business	ECSM Kunde	Risk Projekt	02.03.2011	3		
+3	02.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94544	94566	22	Rückfahrt	Rückfahrt	Rückfahrt	02.03.2011	3		
+4	03.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94566	94590	24	Business	ECSM Kunde	Risk Projekt	03.03.2011	4		
+4	03.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94590	94613	23	Rückfahrt	Rückfahrt	Rückfahrt	03.03.2011	4		
+5	04.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94613	94636	23	Business	ECSM Kunde	Risk Projekt	04.03.2011	5		
+5	04.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94636	94661	25	Rückfahrt	Rückfahrt	Rückfahrt	04.03.2011	5		
+7	06.03.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	94661	94680	19	Privat			06.03.2011	7		
+1	07.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94680	94703	23	Business	ECSM Kunde	Risk Projekt	07.03.2011	1		
+1	07.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94703	94726	23	Rückfahrt	Rückfahrt	Rückfahrt	07.03.2011	1		
+2	08.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94726	94749	23	Business	ECSM Kunde	Risk Projekt	08.03.2011	2		
+2	08.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94749	94773	24	Rückfahrt	Rückfahrt	Rückfahrt	08.03.2011	2		
+2	08.03.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	94773	94834	61	Privat			08.03.2011	2		
+3	09.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94834	94857	23	Business	ECSM Kunde	Risk Projekt	09.03.2011	3		
+3	09.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94857	94879	22	Rückfahrt	Rückfahrt	Rückfahrt	09.03.2011	3		
+4	10.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94879	94901	22	Business	ECSM Kunde	Risk Projekt	10.03.2011	4		
+4	10.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94901	94924	23	Rückfahrt	Rückfahrt	Rückfahrt	10.03.2011	4		
+5	11.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94924	94947	23	Business	ECSM Kunde	Risk Projekt	11.03.2011	5		
+5	11.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94947	94971	24	Rückfahrt	Rückfahrt	Rückfahrt	11.03.2011	5		
+1	14.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	94971	94994	23	Business	ECSM Kunde	Risk Projekt	14.03.2011	1		
+1	14.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	94994	95017	23	Rückfahrt	Rückfahrt	Rückfahrt	14.03.2011	1		
+2	15.03.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	95017	95041	24	Business	ECSM Kunde	Risk Projekt	15.03.2011	2		
+2	15.03.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	95041	95064	23	Rückfahrt	Rückfahrt	Rückfahrt	15.03.2011	2		
+3	16.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95064	95087	23	Business	ECSM Kunde	Risk Projekt	16.03.2011	3		
+3	16.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95087	95109	22	Rückfahrt	Rückfahrt	Rückfahrt	16.03.2011	3		
+4	17.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95109	95131	22	Business	ECSM Kunde	Risk Projekt	17.03.2011	4		
+4	17.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95131	95154	23	Rückfahrt	Rückfahrt	Rückfahrt	17.03.2011	4		
+5	18.03.2011	Oberursel	Tannenweg	Frankfurt	Poststrasse	95154	95177	23	Business	ECSM Kunde	Risk Projekt	18.03.2011	5		
+5	18.03.2011	Frankfurt	Poststrasse	Oberursel	Tannenweg	95177	95203	26	Rückfahrt	Rückfahrt	Rückfahrt	18.03.2011	5		
+6	19.03.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	95203	95222	19	Privat			19.03.2011	6		
+1	21.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95222	95245	23	Business	ECSM Kunde	Risk Projekt	21.03.2011	1		
+1	21.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95245	95268	23	Rückfahrt	Rückfahrt	Rückfahrt	21.03.2011	1		
+2	22.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95268	95294	26	Business	ECSM Kunde	Risk Projekt	22.03.2011	2		
+2	22.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95294	95317	23	Rückfahrt	Rückfahrt	Rückfahrt	22.03.2011	2		
+3	23.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95317	95340	23	Business	ECSM Kunde	Risk Projekt	23.03.2011	3		
+3	23.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95340	95362	22	Rückfahrt	Rückfahrt	Rückfahrt	23.03.2011	3		
+4	24.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95362	95384	22	Business	ECSM Kunde	Risk Projekt	24.03.2011	4		
+4	24.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95384	95407	23	Rückfahrt	Rückfahrt	Rückfahrt	24.03.2011	4		
+5	25.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95407	95430	23	Business	ECSM Kunde	Risk Projekt	25.03.2011	5		
+5	25.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95430	95454	24	Rückfahrt	Rückfahrt	Rückfahrt	25.03.2011	5		
+5	25.03.2011	Oberursel	Tannenweg	Hahn	Flughafen	95454	95582	128	Business	Flughafen	ECSM Geschäftspartner absetzen	25.03.2011	5		
+5	25.03.2011	Hahn	Flughafen	Oberursel	Tannenweg	95582	95716	134	Rückfahrt	Rückfahrt	Rückfahrt	25.03.2011	5		
+1	28.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95716	95739	23	Business	ECSM Kunde	Risk Projekt	28.03.2011	1		
+1	28.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95739	95762	23	Rückfahrt	Rückfahrt	Rückfahrt	28.03.2011	1		
+2	29.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95762	95784	22	Business	ECSM Kunde	Risk Projekt	29.03.2011	2		
+2	29.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95784	95807	23	Rückfahrt	Rückfahrt	Rückfahrt	29.03.2011	2		
+3	30.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95807	95831	24	Business	ECSM Kunde	Risk Projekt	30.03.2011	3		
+3	30.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95831	95856	25	Rückfahrt	Rückfahrt	Rückfahrt	30.03.2011	3		
+4	31.03.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95856	95878	22	Business	ECSM Kunde	Risk Projekt	31.03.2011	4		
+4	31.03.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95878	95901	23	Rückfahrt	Rückfahrt	Rückfahrt	31.03.2011	4		
+5	01.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95901	95925	24	Business	ECSM Kunde	Risk Projekt	01.04.2011	5		
+5	01.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95925	95950	25	Rückfahrt	Rückfahrt	Rückfahrt	01.04.2011	5		
+6	02.04.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	95950	95975	25	Privat			02.04.2011	6		
+1	04.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	95975	95999	24	Business	ECSM Kunde	Risk Projekt	04.04.2011	1		
+1	04.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	95999	96022	23	Rückfahrt	Rückfahrt	Rückfahrt	04.04.2011	1		
+2	05.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96022	96045	23	Business	ECSM Kunde	Risk Projekt	05.04.2011	2		
+2	05.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96045	96068	23	Rückfahrt	Rückfahrt	Rückfahrt	05.04.2011	2		
+3	06.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96068	96092	24	Business	ECSM Kunde	Risk Projekt	06.04.2011	3		
+3	06.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96092	96115	23	Rückfahrt	Rückfahrt	Rückfahrt	06.04.2011	3		
+4	07.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96115	96138	23	Business	ECSM Kunde	Risk Projekt	07.04.2011	4		
+4	07.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96138	96162	24	Rückfahrt	Rückfahrt	Rückfahrt	07.04.2011	4		
+5	08.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96162	96185	23	Business	ECSM Kunde	Risk Projekt	08.04.2011	5		
+5	08.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96185	96208	23	Rückfahrt	Rückfahrt	Rückfahrt	08.04.2011	5		
+6	09.04.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	96208	96279	71	Privat			09.04.2011	6		
+1	11.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96279	96302	23	Business	ECSM Kunde	Risk Projekt	11.04.2011	1		
+1	11.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96302	96325	23	Rückfahrt	Rückfahrt	Rückfahrt	11.04.2011	1		
+2	12.04.2011	Oberursel	Tannenweg	Frankfurt	Parkplatz Innenstadt	96325	96350	25	Business	ECSM Kunde	Risk Projekt	12.04.2011	2		
+2	12.04.2011	Frankfurt	Parkplatz Innenstadt	Oberursel	Tannenweg	96350	96374	24	Rückfahrt	Rückfahrt	Rückfahrt	12.04.2011	2		
+3	13.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96374	96397	23	Business	ECSM Kunde	Risk Projekt	13.04.2011	3		
+3	13.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96397	96420	23	Rückfahrt	Rückfahrt	Rückfahrt	13.04.2011	3		
+4	14.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96420	96443	23	Business	ECSM Kunde	Risk Projekt	14.04.2011	4		
+4	14.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96443	96466	23	Rückfahrt	Rückfahrt	Rückfahrt	14.04.2011	4		
+5	15.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96466	96489	23	Business	ECSM Kunde	Risk Projekt	15.04.2011	5		
+5	15.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96489	96512	23	Rückfahrt	Rückfahrt	Rückfahrt	15.04.2011	5		
+6	16.04.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	96512	96520	8	Privat			16.04.2011	6		
+1	18.04.2011	Oberursel	Tannenweg	Oberursel	Hohemarkstraße 	96520	96522	2	Business	Reifenservice	Reifenwechsel	18.04.2011	1		
+1	18.04.2011	Oberursel	Hohemarkstraße 	Oberursel	Tannenweg	96522	96524	2	Business	Rückfahrt	Rückfahrt	18.04.2011	1		
+1	18.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96524	96547	23	Business	ECSM Kunde	Risk Projekt	18.04.2011	1		
+1	18.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96547	96570	23	Rückfahrt	Rückfahrt	Rückfahrt	18.04.2011	1		
+2	19.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96570	96593	23	Business	ECSM Kunde	Risk Projekt	19.04.2011	2		
+2	19.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96593	96616	23	Rückfahrt	Rückfahrt	Rückfahrt	19.04.2011	2		
+3	20.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96616	96639	23	Business	ECSM Kunde	Risk Projekt	20.04.2011	3		
+3	20.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96639	96662	23	Rückfahrt	Rückfahrt	Rückfahrt	20.04.2011	3		
+4	21.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96662	96685	23	Business	ECSM Kunde	Risk Projekt	21.04.2011	4		
+4	21.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96685	96708	23	Rückfahrt	Rückfahrt	Rückfahrt	21.04.2011	4		
+7	24.04.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	96708	96791	83	Privat			24.04.2011	7		
+2	26.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96791	96814	23	Business	ECSM Kunde	Risk Projekt	26.04.2011	2		
+2	26.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96814	96837	23	Rückfahrt	Rückfahrt	Rückfahrt	26.04.2011	2		
+3	27.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96837	96860	23	Business	ECSM Kunde	Risk Projekt	27.04.2011	3		
+3	27.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96860	96883	23	Rückfahrt	Rückfahrt	Rückfahrt	27.04.2011	3		
+4	28.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96883	96906	23	Business	ECSM Kunde	Risk Projekt	28.04.2011	4		
+4	28.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96906	96929	23	Rückfahrt	Rückfahrt	Rückfahrt	28.04.2011	4		
+5	29.04.2011	Oberursel	Tannenweg	Frankfurt	Platz der Einheit	96929	96952	23	Business	ECSM Kunde	Risk Projekt	29.04.2011	5		
+5	29.04.2011	Frankfurt	Platz der Einheit	Oberursel	Tannenweg	96952	96975	23	Rückfahrt	Rückfahrt	Rückfahrt	29.04.2011	5		
+1	02.05.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Hauptbahnhof	96975	97001	26	Business	ECSM Kunde	Deutsche Bank Projekt	02.05.2011	1		
+1	02.05.2011	Frankfurt	Parkhaus Hauptbahnhof	Oberursel	Tannenweg	97001	97025	24	Rückfahrt	Rückfahrt	Rückfahrt	02.05.2011	1		
+2	03.05.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	97025	97049	24	Business	ECSM Kunde	Deutsche Bank Projekt	03.05.2011	2		
+2	03.05.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	97049	97073	24	Rückfahrt	Rückfahrt	Rückfahrt	03.05.2011	2		
+3	04.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97073	97097	24	Business	ECSM Kunde	Deutsche Bank Projekt	04.05.2011	3		
+3	04.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97097	97122	25	Rückfahrt	Rückfahrt	Rückfahrt	04.05.2011	3		
+4	05.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97122	97146	24	Business	ECSM Kunde	Deutsche Bank Projekt	05.05.2011	4		
+4	05.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97146	97170	24	Rückfahrt	Rückfahrt	Rückfahrt	05.05.2011	4		
+5	06.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97170	97194	24	Business	ECSM Kunde	Deutsche Bank Projekt	06.05.2011	5		
+5	06.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97194	97218	24	Rückfahrt	Rückfahrt	Rückfahrt	06.05.2011	5		
+6	07.05.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	97218	97252	34	Privat			07.05.2011	6		
+1	09.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97252	97276	24	Business	ECSM Kunde	Deutsche Bank Projekt	09.05.2011	1		
+1	09.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97276	97301	25	Rückfahrt	Rückfahrt	Rückfahrt	09.05.2011	1		
+2	10.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97301	97325	24	Business	ECSM Kunde	Deutsche Bank Projekt	10.05.2011	2		
+2	10.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97325	97350	25	Rückfahrt	Rückfahrt	Rückfahrt	10.05.2011	2		
+3	11.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97350	97374	24	Business	ECSM Kunde	Deutsche Bank Projekt	11.05.2011	3		
+3	11.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97374	97399	25	Rückfahrt	Rückfahrt	Rückfahrt	11.05.2011	3		
+4	12.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97399	97423	24	Business	ECSM Kunde	Deutsche Bank Projekt	12.05.2011	4		
+4	12.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97423	97448	25	Rückfahrt	Rückfahrt	Rückfahrt	12.05.2011	4		
+5	13.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97448	97472	24	Business	ECSM Kunde	Deutsche Bank Projekt	13.05.2011	5		
+5	13.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97472	97497	25	Rückfahrt	Rückfahrt	Rückfahrt	13.05.2011	5		
+7	15.05.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	97497	97578	81	Privat			15.05.2011	7		
+1	16.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97578	97602	24	Business	ECSM Kunde	Deutsche Bank Projekt	16.05.2011	1		
+1	16.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97602	97627	25	Rückfahrt	Rückfahrt	Rückfahrt	16.05.2011	1		
+2	17.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97627	97651	24	Business	ECSM Kunde	Deutsche Bank Projekt	17.05.2011	2		
+2	17.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97651	97675	24	Rückfahrt	Rückfahrt	Rückfahrt	17.05.2011	2		
+3	18.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97675	97699	24	Business	ECSM Kunde	Deutsche Bank Projekt	18.05.2011	3		
+3	18.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97699	97723	24	Rückfahrt	Rückfahrt	Rückfahrt	18.05.2011	3		
+4	19.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97723	97747	24	Business	ECSM Kunde	Deutsche Bank Projekt	19.05.2011	4		
+4	19.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97747	97771	24	Rückfahrt	Rückfahrt	Rückfahrt	19.05.2011	4		
+5	20.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	97771	97795	24	Business	ECSM Kunde	Deutsche Bank Projekt	20.05.2011	5		
+5	20.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	97795	97820	25	Rückfahrt	Rückfahrt	Rückfahrt	20.05.2011	5		
+5	20.05.2011	Oberursel	Tannenweg	Frankfurt	Flughafen	97820	97851	31	Business	ECSM Kunde	Flughafentransfer	20.05.2011	5		
+5	20.05.2011	Frankfurt	Flughafen	Oberursel	Tannenweg	97851	97881	30	Rückfahrt	Rückfahrt	Rückfahrt	20.05.2011	5		
+6	21.05.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	97881	98006	125	Privat			21.05.2011	6		
+1	23.05.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	98006	98031	25	Business	ECSM Kunde	Deutsche Bank Projekt	23.05.2011	1		
+1	23.05.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	98031	98055	24	Rückfahrt	Rückfahrt	Rückfahrt	23.05.2011	1		
+2	24.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98055	98079	24	Business	ECSM Kunde	Deutsche Bank Projekt	24.05.2011	2		
+2	24.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98079	98104	25	Rückfahrt	Rückfahrt	Rückfahrt	24.05.2011	2		
+3	25.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98104	98129	25	Business	ECSM Kunde	Deutsche Bank Projekt	25.05.2011	3		
+3	25.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98129	98154	25	Rückfahrt	Rückfahrt	Rückfahrt	25.05.2011	3		
+4	26.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98154	98178	24	Business	ECSM Kunde	Deutsche Bank Projekt	26.05.2011	4		
+4	26.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98178	98203	25	Rückfahrt	Rückfahrt	Rückfahrt	26.05.2011	4		
+5	27.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98203	98229	26	Business	ECSM Kunde	Deutsche Bank Projekt	27.05.2011	5		
+5	27.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98229	98254	25	Rückfahrt	Rückfahrt	Rückfahrt	27.05.2011	5		
+1	30.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98254	98278	24	Business	ECSM Kunde	Deutsche Bank Projekt	30.05.2011	1		
+1	30.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98278	98302	24	Rückfahrt	Rückfahrt	Rückfahrt	30.05.2011	1		
+2	31.05.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98302	98326	24	Business	ECSM Kunde	Deutsche Bank Projekt	31.05.2011	2		
+2	31.05.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98326	98351	25	Rückfahrt	Rückfahrt	Rückfahrt	31.05.2011	2		
+3	01.06.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	98351	98377	26	Business	ECSM Kunde	Deutsche Bank Projekt	01.06.2011	3		
+3	01.06.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	98377	98402	25	Rückfahrt	Rückfahrt	Rückfahrt	01.06.2011	3		
+5	03.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98402	98426	24	Business	ECSM Kunde	Deutsche Bank Projekt	03.06.2011	5		
+5	03.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98426	98451	25	Rückfahrt	Rückfahrt	Rückfahrt	03.06.2011	5		
+1	06.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98451	98475	24	Business	ECSM Kunde	Deutsche Bank Projekt	06.06.2011	1		
+1	06.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98475	98499	24	Rückfahrt	Rückfahrt	Rückfahrt	06.06.2011	1		
+2	07.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98499	98523	24	Business	ECSM Kunde	Deutsche Bank Projekt	07.06.2011	2		
+2	07.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98523	98547	24	Rückfahrt	Rückfahrt	Rückfahrt	07.06.2011	2		
+3	08.06.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	98547	98572	25	Business	ECSM Kunde	Deutsche Bank Projekt	08.06.2011	3		
+3	08.06.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	98572	98597	25	Rückfahrt	Rückfahrt	Rückfahrt	08.06.2011	3		
+4	09.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98597	98621	24	Business	ECSM Kunde	Deutsche Bank Projekt	09.06.2011	4		
+4	09.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98621	98645	24	Rückfahrt	Rückfahrt	Rückfahrt	09.06.2011	4		
+5	10.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98645	98669	24	Business	ECSM Kunde	Deutsche Bank Projekt	10.06.2011	5		
+5	10.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98669	98693	24	Rückfahrt	Rückfahrt	Rückfahrt	10.06.2011	5		
+6	11.06.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	98693	98702	9	Privat			11.06.2011	6		
+2	14.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98702	98726	24	Business	ECSM Kunde	Deutsche Bank Projekt	14.06.2011	2		
+2	14.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98726	98750	24	Rückfahrt	Rückfahrt	Rückfahrt	14.06.2011	2		
+3	15.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98750	98774	24	Business	ECSM Kunde	Deutsche Bank Projekt	15.06.2011	3		
+3	15.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98774	98798	24	Rückfahrt	Rückfahrt	Rückfahrt	15.06.2011	3		
+4	16.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98798	98822	24	Business	ECSM Kunde	Deutsche Bank Projekt	16.06.2011	4		
+4	16.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98822	98846	24	Rückfahrt	Rückfahrt	Rückfahrt	16.06.2011	4		
+5	17.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	98846	98870	24	Business	ECSM Kunde	Deutsche Bank Projekt	17.06.2011	5		
+5	17.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	98870	98894	24	Rückfahrt	Rückfahrt	Rückfahrt	17.06.2011	5		
+6	18.06.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	98894	98905	11	Privat			18.06.2011	6		
+6	18.06.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	98905	98956	51	Privat			18.06.2011	6		
+1	20.06.2011	Oberursel	Tannenweg	Frankfurt	Flughafen	98956	98980	24	Business	ECSM Kunde	Flughafentransfer	20.06.2011	1		
+1	20.06.2011	Frankfurt	Flughafen	Frankfurt	Kirchnerstrasse	98980	99004	24	Business	ECSM Kunde	Deutsche Bank Projekt	20.06.2011	1		
+1	20.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99004	99028	24	Rückfahrt	Rückfahrt	Rückfahrt	20.06.2011	1		
+2	21.06.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	99028	99052	24	Business	ECSM Kunde	Deutsche Bank Projekt	21.06.2011	2		
+2	21.06.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	99052	99076	24	Rückfahrt	Rückfahrt	Rückfahrt	21.06.2011	2		
+3	22.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99076	99100	24	Business	ECSM Kunde	Deutsche Bank Projekt	22.06.2011	3		
+3	22.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99100	99124	24	Rückfahrt	Rückfahrt	Rückfahrt	22.06.2011	3		
+5	24.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99124	99148	24	Business	ECSM Kunde	Deutsche Bank Projekt	24.06.2011	5		
+5	24.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99148	99172	24	Rückfahrt	Rückfahrt	Rückfahrt	24.06.2011	5		
+7	26.06.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	99172	99283	111	Privat			26.06.2011	7		
+1	27.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99283	99307	24	Business	ECSM Kunde	Deutsche Bank Projekt	27.06.2011	1		
+1	27.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99307	99331	24	Rückfahrt	Rückfahrt	Rückfahrt	27.06.2011	1		
+2	28.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99331	99355	24	Business	ECSM Kunde	Deutsche Bank Projekt	28.06.2011	2		
+2	28.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99355	99379	24	Rückfahrt	Rückfahrt	Rückfahrt	28.06.2011	2		
+3	29.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99379	99403	24	Business	ECSM Kunde	Deutsche Bank Projekt	29.06.2011	3		
+3	29.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99403	99427	24	Rückfahrt	Rückfahrt	Rückfahrt	29.06.2011	3		
+4	30.06.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99427	99451	24	Business	ECSM Kunde	Deutsche Bank Projekt	30.06.2011	4		
+4	30.06.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99451	99475	24	Rückfahrt	Rückfahrt	Rückfahrt	30.06.2011	4		
+5	01.07.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	99475	99499	24	Business	ECSM Kunde	Deutsche Bank Projekt	01.07.2011	5		
+5	01.07.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	99499	99523	24	Rückfahrt	Rückfahrt	Rückfahrt	01.07.2011	5		
+6	02.07.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	99523	99542	19	Privat			02.07.2011	6		
+1	04.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99542	99566	24	Business	ECSM Kunde	Deutsche Bank Projekt	04.07.2011	1		
+1	04.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99566	99589	23	Rückfahrt	Rückfahrt	Rückfahrt	04.07.2011	1		
+2	05.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99589	99613	24	Business	ECSM Kunde	Deutsche Bank Projekt	05.07.2011	2		
+2	05.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99613	99637	24	Rückfahrt	Rückfahrt	Rückfahrt	05.07.2011	2		
+3	06.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99637	99661	24	Business	ECSM Kunde	Deutsche Bank Projekt	06.07.2011	3		
+3	06.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99661	99686	25	Rückfahrt	Rückfahrt	Rückfahrt	06.07.2011	3		
+4	07.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99686	99710	24	Business	ECSM Kunde	Deutsche Bank Projekt	07.07.2011	4		
+4	07.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99710	99734	24	Rückfahrt	Rückfahrt	Rückfahrt	07.07.2011	4		
+5	08.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99734	99759	25	Business	ECSM Kunde	Deutsche Bank Projekt	08.07.2011	5		
+5	08.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99759	99783	24	Rückfahrt	Rückfahrt	Rückfahrt	08.07.2011	5		
+6	09.07.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	99783	99794	11	Privat			09.07.2011	6		
+1	11.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99794	99819	25	Business	ECSM Kunde	Deutsche Bank Projekt	11.07.2011	1		
+1	11.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99819	99843	24	Rückfahrt	Rückfahrt	Rückfahrt	11.07.2011	1		
+2	12.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99843	99868	25	Business	ECSM Kunde	Deutsche Bank Projekt	12.07.2011	2		
+2	12.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99868	99892	24	Rückfahrt	Rückfahrt	Rückfahrt	12.07.2011	2		
+3	13.07.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	99892	99916	24	Business	ECSM Kunde	Deutsche Bank Projekt	13.07.2011	3		
+3	13.07.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	99916	99940	24	Rückfahrt	Rückfahrt	Rückfahrt	13.07.2011	3		
+4	14.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99940	99965	25	Business	ECSM Kunde	Deutsche Bank Projekt	14.07.2011	4		
+4	14.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	99965	99989	24	Rückfahrt	Rückfahrt	Rückfahrt	14.07.2011	4		
+5	15.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	99989	100014	25	Business	ECSM Kunde	Deutsche Bank Projekt	15.07.2011	5		
+5	15.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100014	100038	24	Rückfahrt	Rückfahrt	Rückfahrt	15.07.2011	5		
+1	18.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100038	100063	25	Business	ECSM Kunde	Deutsche Bank Projekt	18.07.2011	1		
+1	18.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100063	100087	24	Rückfahrt	Rückfahrt	Rückfahrt	18.07.2011	1		
+2	19.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100087	100112	25	Business	ECSM Kunde	Deutsche Bank Projekt	19.07.2011	2		
+2	19.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100112	100136	24	Rückfahrt	Rückfahrt	Rückfahrt	19.07.2011	2		
+3	20.07.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	100136	100160	24	Business	ECSM Kunde	Deutsche Bank Projekt	20.07.2011	3		
+3	20.07.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	100160	100184	24	Rückfahrt	Rückfahrt	Rückfahrt	20.07.2011	3		
+4	21.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100184	100209	25	Business	ECSM Kunde	Deutsche Bank Projekt	21.07.2011	4		
+4	21.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100209	100233	24	Rückfahrt	Rückfahrt	Rückfahrt	21.07.2011	4		
+5	22.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100233	100258	25	Business	ECSM Kunde	Deutsche Bank Projekt	22.07.2011	5		
+5	22.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100258	100282	24	Rückfahrt	Rückfahrt	Rückfahrt	22.07.2011	5		
+6	23.07.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	100282	100288	6	Privat			23.07.2011	6		
+1	25.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100288	100313	25	Business	ECSM Kunde	Deutsche Bank Projekt	25.07.2011	1		
+1	25.07.2011	Frankfurt	Kirchnerstrasse	Hahn	Flughafen	100313	100438	125	Business	ECSM Kunde	Kunde Abholen	25.07.2011	1		
+1	25.07.2011	Hahn	Flughafen	Oberursel	Tannenweg	100438	100577	139	Rückfahrt	Rückfahrt	Rückfahrt	25.07.2011	1		
+2	26.07.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	100577	100601	24	Business	ECSM Kunde	Deutsche Bank Projekt	26.07.2011	2		
+2	26.07.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	100601	100625	24	Rückfahrt	Rückfahrt	Rückfahrt	26.07.2011	2		
+3	27.07.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	100625	100649	24	Business	ECSM Kunde	Deutsche Bank Projekt	27.07.2011	3		
+3	27.07.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	100649	100673	24	Rückfahrt	Rückfahrt	Rückfahrt	27.07.2011	3		
+4	28.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100673	100698	25	Business	ECSM Kunde	Deutsche Bank Projekt	28.07.2011	4		
+4	28.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100698	100722	24	Rückfahrt	Rückfahrt	Rückfahrt	28.07.2011	4		
+5	29.07.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100722	100747	25	Business	ECSM Kunde	Deutsche Bank Projekt	29.07.2011	5		
+5	29.07.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100747	100771	24	Rückfahrt	Rückfahrt	Rückfahrt	29.07.2011	5		
+6	30.07.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	100771	100793	22	Privat			30.07.2011	6		
+1	01.08.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	100793	100817	24	Business	ECSM Kunde	Deutsche Bank Projekt	01.08.2011	1		
+1	01.08.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	100817	100841	24	Rückfahrt	Rückfahrt	Rückfahrt	01.08.2011	1		
+2	02.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100841	100866	25	Business	ECSM Kunde	Deutsche Bank Projekt	02.08.2011	2		
+2	02.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100866	100890	24	Rückfahrt	Rückfahrt	Rückfahrt	02.08.2011	2		
+3	03.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100890	100915	25	Business	ECSM Kunde	Deutsche Bank Projekt	03.08.2011	3		
+3	03.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100915	100939	24	Rückfahrt	Rückfahrt	Rückfahrt	03.08.2011	3		
+4	04.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	100939	100964	25	Business	ECSM Kunde	Deutsche Bank Projekt	04.08.2011	4		
+4	04.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	100964	100988	24	Rückfahrt	Rückfahrt	Rückfahrt	04.08.2011	4		
+5	05.08.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	100988	101012	24	Business	ECSM Kunde	Deutsche Bank Projekt	05.08.2011	5		
+5	05.08.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	101012	101036	24	Rückfahrt	Rückfahrt	Rückfahrt	05.08.2011	5		
+5	05.08.2011	Oberursel	Tannenweg	Prag	Innenstadt	101036	101595	559	Business	ECSM	Übernachtung unterwegs	05.08.2011	5		
+6	06.08.2011	Prag	Innenstadt	Dlha nad Vahom	Dlha nad Vahom	101595	102040	445	Business	ECSM	ECSM Offsite	06.08.2011	6		
+6	06.08.2011	Dlha nad Vahom	Dlha nad Vahom	Bratislava	Innenstadt	102040	102111	71	Business	ECSM	ECSM Offsite	06.08.2011	6		
+7	07.08.2011	Bratislava	Innenstadt	Dlha nad Vahom	Dlha nad Vahom	102111	102184	73	Business	ECSM	ECSM Offsite	07.08.2011	7		
+7	07.08.2011	Dlha nad Vahom	Dlha nad Vahom	Dlha nad Vahom	Dlha nad Vahom	102184	102216	32	Private			07.08.2011	7		
+1	08.08.2011	Dlha nad Vahom	Dlha nad Vahom	Oberursel	Tannenweg	102216	103188	972	Rückfahrt	Rückfahrt	Rückfahrt	08.08.2011	1		
+2	09.08.2011	Oberursel	Tannenweg	Oberursel	Autowerkstatt Oberursel	103188	103220	32	Business	Werkstatt	Reparatur + Probefahrt	09.08.2011	2	0	103220
+2	09.08.2011	Oberursel	Autowerkstatt Oberursel	Oberursel	Tannenweg	103220	103229	9				09.08.2011	2		
+3	10.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103229	103254	25	Business	ECSM Kunde	Deutsche Bank Projekt	10.08.2011	3		
+3	10.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103254	103278	24	Rückfahrt	Rückfahrt	Rückfahrt	10.08.2011	3		
+4	11.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103278	103303	25	Business	ECSM Kunde	Deutsche Bank Projekt	11.08.2011	4		
+4	11.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103303	103327	24	Rückfahrt	Rückfahrt	Rückfahrt	11.08.2011	4		
+5	12.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103327	103352	25	Business	ECSM Kunde	Deutsche Bank Projekt	12.08.2011	5		
+5	12.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103352	103376	24	Rückfahrt	Rückfahrt	Rückfahrt	12.08.2011	5		
+1	15.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103376	103401	25	Business	ECSM Kunde	Deutsche Bank Projekt	15.08.2011	1		
+1	15.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103401	103425	24	Rückfahrt	Rückfahrt	Rückfahrt	15.08.2011	1		
+2	16.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103425	103450	25	Business	ECSM Kunde	Deutsche Bank Projekt	16.08.2011	2		
+2	16.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103450	103474	24	Rückfahrt	Rückfahrt	Rückfahrt	16.08.2011	2		
+3	17.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103474	103499	25	Business	ECSM Kunde	Deutsche Bank Projekt	17.08.2011	3		
+3	17.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103499	103523	24	Rückfahrt	Rückfahrt	Rückfahrt	17.08.2011	3		
+4	18.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103523	103548	25	Business	ECSM Kunde	Deutsche Bank Projekt	18.08.2011	4		
+4	18.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103548	103572	24	Rückfahrt	Rückfahrt	Rückfahrt	18.08.2011	4		
+5	19.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103572	103597	25	Business	ECSM Kunde	Deutsche Bank Projekt	19.08.2011	5		
+5	19.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103597	103621	24	Rückfahrt	Rückfahrt	Rückfahrt	19.08.2011	5		
+1	22.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103621	103646	25	Business	ECSM Kunde	Deutsche Bank Projekt	22.08.2011	1		
+1	22.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103646	103670	24	Rückfahrt	Rückfahrt	Rückfahrt	22.08.2011	1		
+2	23.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103670	103695	25	Business	ECSM Kunde	Deutsche Bank Projekt	23.08.2011	2		
+2	23.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103695	103719	24	Rückfahrt	Rückfahrt	Rückfahrt	23.08.2011	2		
+3	24.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103719	103744	25	Business	ECSM Kunde	Deutsche Bank Projekt	24.08.2011	3		
+3	24.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103744	103768	24	Rückfahrt	Rückfahrt	Rückfahrt	24.08.2011	3		
+4	25.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103768	103793	25	Business	ECSM Kunde	Deutsche Bank Projekt	25.08.2011	4		
+4	25.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103793	103817	24	Rückfahrt	Rückfahrt	Rückfahrt	25.08.2011	4		
+5	26.08.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103817	103842	25	Business	ECSM Kunde	Deutsche Bank Projekt	26.08.2011	5		
+5	26.08.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103842	103866	24	Rückfahrt	Rückfahrt	Rückfahrt	26.08.2011	5		
+2	30.08.2011	Oberursel	Tannenweg	Frankfurt	Karl von Dreis strasse	103866	103910	44	Business	BMW	Reparatur + Probefahrt	30.08.2011	2	0	103910
+2	30.08.2011	Frankfurt	Karl von Dreis strasse	Oberursel	Tannenweg	103910	103926	16	Rückfahrt	Rückfahrt	Rückfahrt	30.08.2011	2		
+4	01.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	103926	103951	25	Business	ECSM Kunde	Deutsche Bank Projekt	01.09.2011	4		
+4	01.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	103951	103975	24	Rückfahrt	Rückfahrt	Rückfahrt	01.09.2011	4		
+5	02.09.2011	Oberursel	Tannenweg	Frankfurt	Karl von Dreis strasse	103975	104003	28	Business	BMW	Reparatur + Probefahrt	02.09.2011	5	0	104003
+5	02.09.2011	Frankfurt	Karl von Dreis strasse	Oberursel	Tannenweg	104003	104019	16	Rückfahrt	Rückfahrt	Rückfahrt	02.09.2011	5		
+1	19.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104019	104044	25	Business	ECSM Kunde	Deutsche Bank Projekt	19.09.2011	1	Szabi	
+1	19.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104044	104068	24	Rückfahrt	Rückfahrt	Rückfahrt	19.09.2011	1		
+2	20.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104068	104093	25	Business	ECSM Kunde	Deutsche Bank Projekt	20.09.2011	2		
+2	20.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104093	104117	24	Rückfahrt	Rückfahrt	Rückfahrt	20.09.2011	2		
+3	21.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104117	104142	25	Business	ECSM Kunde	Deutsche Bank Projekt	21.09.2011	3		
+3	21.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104142	104166	24	Rückfahrt	Rückfahrt	Rückfahrt	21.09.2011	3		
+4	22.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104166	104191	25	Business	ECSM Kunde	Deutsche Bank Projekt	22.09.2011	4		
+4	22.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104191	104215	24	Rückfahrt	Rückfahrt	Rückfahrt	22.09.2011	4		
+5	23.09.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	104215	104239	24	Business	ECSM Kunde	Deutsche Bank Projekt	23.09.2011	5		
+5	23.09.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	104239	104263	24	Rückfahrt	Rückfahrt	Rückfahrt	23.09.2011	5		
+6	24.09.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	104263	104320	57	Privat			24.09.2011	6		
+1	26.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104320	104345	25	Business	ECSM Kunde	Deutsche Bank Projekt	26.09.2011	1		
+1	26.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104345	104369	24	Rückfahrt	Rückfahrt	Rückfahrt	26.09.2011	1		
+2	27.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104369	104394	25	Business	ECSM Kunde	Deutsche Bank Projekt	27.09.2011	2		
+2	27.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104394	104418	24	Rückfahrt	Rückfahrt	Rückfahrt	27.09.2011	2		
+3	28.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104418	104443	25	Business	ECSM Kunde	Deutsche Bank Projekt	28.09.2011	3		
+3	28.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104443	104467	24	Rückfahrt	Rückfahrt	Rückfahrt	28.09.2011	3		
+4	29.09.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	104467	104490	23	Business	ECSM Kunde	Deutsche Bank Projekt	29.09.2011	4		
+4	29.09.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	104490	104514	24	Rückfahrt	Rückfahrt	Rückfahrt	29.09.2011	4		
+5	30.09.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104514	104539	25	Business	ECSM Kunde	Deutsche Bank Projekt	30.09.2011	5		
+5	30.09.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104539	104563	24	Rückfahrt	Rückfahrt	Rückfahrt	30.09.2011	5		
+2	04.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104563	104588	25	Business	ECSM Kunde	Deutsche Bank Projekt	04.10.2011	2		
+2	04.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104588	104612	24	Rückfahrt	Rückfahrt	Rückfahrt	04.10.2011	2		
+3	05.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104612	104636	24	Business	ECSM Kunde	Deutsche Bank Projekt	05.10.2011	3		
+3	05.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104636	104660	24	Rückfahrt	Rückfahrt	Rückfahrt	05.10.2011	3		
+4	06.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104660	104685	25	Business	ECSM Kunde	Deutsche Bank Projekt	06.10.2011	4		
+4	06.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104685	104709	24	Rückfahrt	Rückfahrt	Rückfahrt	06.10.2011	4		
+5	07.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	104709	104734	25	Business	ECSM Kunde	Deutsche Bank Projekt	07.10.2011	5		
+5	07.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	104734	104758	24	Rückfahrt	Rückfahrt	Rückfahrt	07.10.2011	5		
+6	08.10.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	104758	105029	271	Privat			08.10.2011	6		
+1	10.10.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	105029	105053	24	Business	ECSM Kunde	Deutsche Bank Projekt	10.10.2011	1		
+1	10.10.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	105053	105077	24	Rückfahrt	Rückfahrt	Rückfahrt	10.10.2011	1		
+2	11.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105077	105102	25	Business	ECSM Kunde	Deutsche Bank Projekt	11.10.2011	2		
+2	11.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105102	105126	24	Rückfahrt	Rückfahrt	Rückfahrt	11.10.2011	2		
+3	12.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105126	105151	25	Business	ECSM Kunde	Deutsche Bank Projekt	12.10.2011	3		
+3	12.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105151	105175	24	Rückfahrt	Rückfahrt	Rückfahrt	12.10.2011	3		
+4	13.10.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus FFT	105175	105198	23	Business	ECSM Kunde	Deutsche Bank Projekt	13.10.2011	4		
+4	13.10.2011	Frankfurt	Parkhaus FFT	Oberursel	Tannenweg	105198	105222	24	Rückfahrt	Rückfahrt	Rückfahrt	13.10.2011	4		
+5	14.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105222	105247	25	Business	ECSM Kunde	Deutsche Bank Projekt	14.10.2011	5		
+5	14.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105247	105271	24	Rückfahrt	Rückfahrt	Rückfahrt	14.10.2011	5		
+6	15.10.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	105271	105309	38	Privat			15.10.2011	6		
+1	17.10.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	105309	105333	24	Business	ECSM Kunde	Deutsche Bank Projekt	17.10.2011	1		
+1	17.10.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	105333	105357	24	Rückfahrt	Rückfahrt	Rückfahrt	17.10.2011	1		
+2	18.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105357	105382	25	Business	ECSM Kunde	Deutsche Bank Projekt	18.10.2011	2		
+2	18.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105382	105406	24	Rückfahrt	Rückfahrt	Rückfahrt	18.10.2011	2		
+3	19.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105406	105431	25	Business	ECSM Kunde	Deutsche Bank Projekt	19.10.2011	3		
+3	19.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105431	105455	24	Rückfahrt	Rückfahrt	Rückfahrt	19.10.2011	3		
+4	20.10.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	105455	105479	24	Business	ECSM Kunde	Deutsche Bank Projekt	20.10.2011	4		
+4	20.10.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	105479	105503	24	Rückfahrt	Rückfahrt	Rückfahrt	20.10.2011	4		
+5	21.10.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	105503	105527	24	Business	ECSM Kunde	Deutsche Bank Projekt	21.10.2011	5		
+5	21.10.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	105527	105551	24	Rückfahrt	Rückfahrt	Rückfahrt	21.10.2011	5		
+6	22.10.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	105551	105589	38	Privat			22.10.2011	6		
+1	24.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105589	105614	25	Business	ECSM Kunde	Deutsche Bank Projekt	24.10.2011	1		
+1	24.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105614	105638	24	Rückfahrt	Rückfahrt	Rückfahrt	24.10.2011	1		
+2	25.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105638	105663	25	Business	ECSM Kunde	Deutsche Bank Projekt	25.10.2011	2		
+2	25.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105663	105687	24	Rückfahrt	Rückfahrt	Rückfahrt	25.10.2011	2		
+3	26.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105687	105712	25	Business	ECSM Kunde	Deutsche Bank Projekt	26.10.2011	3		
+3	26.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105712	105736	24	Rückfahrt	Rückfahrt	Rückfahrt	26.10.2011	3		
+4	27.10.2011	Oberursel	Tannenweg	Frankfurt	Parken Poststrasse	105736	105759	23	Business	ECSM Kunde	Deutsche Bank Projekt	27.10.2011	4		
+4	27.10.2011	Frankfurt	Parken Poststrasse	Oberursel	Tannenweg	105759	105782	23	Rückfahrt	Rückfahrt	Rückfahrt	27.10.2011	4		
+5	28.10.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105782	105807	25	Business	ECSM Kunde	Deutsche Bank Projekt	28.10.2011	5		
+5	28.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105807	105831	24	Rückfahrt	Rückfahrt	Rückfahrt	28.10.2011	5		
+6	29.10.2011	Oberursel	Tannenweg			105831	105831					29.10.2011	6		
+1	31.10.2011	0	0	Frankfurt	Kirchnerstrasse	105831	105856	25	Business	ECSM Kunde	Deutsche Bank Projekt	31.10.2011	1		
+1	31.10.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105856	105880	24	Rückfahrt	Rückfahrt	Rückfahrt	31.10.2011	1		
+2	01.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105880	105905	25	Business	ECSM Kunde	Deutsche Bank Projekt	01.11.2011	2		
+2	01.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105905	105929	24	Rückfahrt	Rückfahrt	Rückfahrt	01.11.2011	2		
+3	02.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	105929	105954	25	Business	ECSM Kunde	Deutsche Bank Projekt	02.11.2011	3		
+3	02.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	105954	105978	24	Rückfahrt	Rückfahrt	Rückfahrt	02.11.2011	3		
+4	03.11.2011	Oberursel	Tannenweg	Frankfurt	Parken Poststrasse	105978	106001	23	Business	ECSM Kunde	Deutsche Bank Projekt	03.11.2011	4		
+4	03.11.2011	Frankfurt	Parken Poststrasse	Oberursel	Tannenweg	106001	106024	23	Rückfahrt	Rückfahrt	Rückfahrt	03.11.2011	4		
+5	04.11.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	106024	106048	24	Business	ECSM Kunde	Deutsche Bank Projekt	04.11.2011	5		
+5	04.11.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	106048	106072	24	Rückfahrt	Rückfahrt	Rückfahrt	04.11.2011	5		
+6	05.11.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	106072	106081	9	Privat			05.11.2011	6		
+1	07.11.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	106081	106105	24	Business	ECSM Kunde	Deutsche Bank Projekt	07.11.2011	1		
+1	07.11.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	106105	106129	24	Rückfahrt	Rückfahrt	Rückfahrt	07.11.2011	1		
+2	08.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106129	106154	25	Business	ECSM Kunde	Deutsche Bank Projekt	08.11.2011	2		
+2	08.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106154	106178	24	Rückfahrt	Rückfahrt	Rückfahrt	08.11.2011	2		
+3	09.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106178	106203	25	Business	ECSM Kunde	Deutsche Bank Projekt	09.11.2011	3		
+3	09.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106203	106227	24	Rückfahrt	Rückfahrt	Rückfahrt	09.11.2011	3		
+4	10.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106227	106252	25	Business	ECSM Kunde	Deutsche Bank Projekt	10.11.2011	4		
+4	10.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106252	106276	24	Rückfahrt	Rückfahrt	Rückfahrt	10.11.2011	4		
+5	11.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106276	106301	25	Business	ECSM Kunde	Deutsche Bank Projekt	11.11.2011	5		
+5	11.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106301	106325	24	Rückfahrt	Rückfahrt	Rückfahrt	11.11.2011	5		
+1	14.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106325	106350	25	Business	ECSM Kunde	Deutsche Bank Projekt	14.11.2011	1		
+1	14.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106350	106374	24	Rückfahrt	Rückfahrt	Rückfahrt	14.11.2011	1		
+2	15.11.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	106374	106398	24	Business	ECSM Kunde	Deutsche Bank Projekt	15.11.2011	2		
+2	15.11.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	106398	106422	24	Rückfahrt	Rückfahrt	Rückfahrt	15.11.2011	2		
+3	16.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106422	106447	25	Business	ECSM Kunde	Deutsche Bank Projekt	16.11.2011	3		
+3	16.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106447	106471	24	Rückfahrt	Rückfahrt	Rückfahrt	16.11.2011	3		
+4	17.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106471	106496	25	Business	ECSM Kunde	Deutsche Bank Projekt	17.11.2011	4		
+4	17.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106496	106520	24	Rückfahrt	Rückfahrt	Rückfahrt	17.11.2011	4		
+5	18.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106520	106545	25	Business	ECSM Kunde	Deutsche Bank Projekt	18.11.2011	5		
+5	18.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106545	106569	24	Rückfahrt	Rückfahrt	Rückfahrt	18.11.2011	5		
+7	20.11.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	106569	106591	22	Privat			20.11.2011	7		
+1	21.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106591	106616	25	Business	ECSM Kunde	Deutsche Bank Projekt	21.11.2011	1		
+1	21.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106616	106640	24	Rückfahrt	Rückfahrt	Rückfahrt	21.11.2011	1		
+2	22.11.2011	Oberursel	Tannenweg	Oberursel	Hohemarkstraße 	106640	106642	2	Business	Reifenservice	Reifenwechsel	22.11.2011	2		
+2	22.11.2011	Oberursel	Hohemarkstraße 	Oberursel	Tannenweg	106642	106644	2	Business	Rückfahrt	Rückfahrt	22.11.2011	2		
+3	23.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106644	106669	25	Business	ECSM Kunde	Deutsche Bank Projekt	23.11.2011	3		
+3	23.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106669	106693	24	Rückfahrt	Rückfahrt	Rückfahrt	23.11.2011	3		
+4	24.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106693	106718	25	Business	ECSM Kunde	Deutsche Bank Projekt	24.11.2011	4		
+4	24.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106718	106742	24	Rückfahrt	Rückfahrt	Rückfahrt	24.11.2011	4		
+5	25.11.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	106742	106766	24	Business	ECSM Kunde	Deutsche Bank Projekt	25.11.2011	5		
+5	25.11.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	106766	106790	24	Rückfahrt	Rückfahrt	Rückfahrt	25.11.2011	5		
+6	26.11.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	106790	106798	8	Privat			26.11.2011	6		
+1	28.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106798	106823	25	Business	ECSM Kunde	Deutsche Bank Projekt	28.11.2011	1		
+1	28.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106823	106847	24	Rückfahrt	Rückfahrt	Rückfahrt	28.11.2011	1		
+2	29.11.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	106847	106871	24	Business	ECSM Kunde	Deutsche Bank Projekt	29.11.2011	2		
+2	29.11.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	106871	106895	24	Rückfahrt	Rückfahrt	Rückfahrt	29.11.2011	2		
+3	30.11.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106895	106920	25	Business	ECSM Kunde	Deutsche Bank Projekt	30.11.2011	3		
+3	30.11.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106920	106944	24	Rückfahrt	Rückfahrt	Rückfahrt	30.11.2011	3		
+4	01.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	106944	106969	25	Business	ECSM Kunde	Deutsche Bank Projekt	01.12.2011	4		
+4	01.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	106969	106993	24	Rückfahrt	Rückfahrt	Rückfahrt	01.12.2011	4		
+5	02.12.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	106993	107017	24	Business	ECSM Kunde	Deutsche Bank Projekt	02.12.2011	5		
+5	02.12.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	107017	107041	24	Rückfahrt	Rückfahrt	Rückfahrt	02.12.2011	5		
+1	05.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107041	107065	24	Business	ECSM Kunde	Deutsche Bank Projekt	05.12.2011	1		
+1	05.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107065	107089	24	Rückfahrt	Rückfahrt	Rückfahrt	05.12.2011	1		
+2	06.12.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	107089	107113	24	Business	ECSM Kunde	Deutsche Bank Projekt	06.12.2011	2		
+2	06.12.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	107113	107137	24	Rückfahrt	Rückfahrt	Rückfahrt	06.12.2011	2		
+3	07.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107137	107161	24	Business	ECSM Kunde	Deutsche Bank Projekt	07.12.2011	3		
+3	07.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107161	107185	24	Rückfahrt	Rückfahrt	Rückfahrt	07.12.2011	3		
+4	08.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107185	107209	24	Business	ECSM Kunde	Deutsche Bank Projekt	08.12.2011	4		
+4	08.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107209	107233	24	Rückfahrt	Rückfahrt	Rückfahrt	08.12.2011	4		
+5	09.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107233	107257	24	Business	ECSM Kunde	Deutsche Bank Projekt	09.12.2011	5		
+5	09.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107257	107281	24	Rückfahrt	Rückfahrt	Rückfahrt	09.12.2011	5		
+6	10.12.2011	Oberursel	Tannenweg	Oberursel	Tannenweg	107281	107372	91	Privat			10.12.2011	6		
+1	12.12.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	107372	107396	24	Business	ECSM Kunde	Deutsche Bank Projekt	12.12.2011	1		
+1	12.12.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	107396	107420	24	Rückfahrt	Rückfahrt	Rückfahrt	12.12.2011	1		
+2	13.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107420	107444	24	Business	ECSM Kunde	Deutsche Bank Projekt	13.12.2011	2		
+2	13.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107444	107468	24	Rückfahrt	Rückfahrt	Rückfahrt	13.12.2011	2		
+3	14.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107468	107492	24	Business	ECSM Kunde	Deutsche Bank Projekt	14.12.2011	3		
+3	14.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107492	107516	24	Rückfahrt	Rückfahrt	Rückfahrt	14.12.2011	3		
+4	15.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	107516	107540	24	Business	ECSM Kunde	Deutsche Bank Projekt	15.12.2011	4		
+4	15.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	107540	107564	24	Rückfahrt	Rückfahrt	Rückfahrt	15.12.2011	4		
+5	16.12.2011	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	107564	107588	24	Business	ECSM Kunde	Deutsche Bank Projekt	16.12.2011	5		
+5	16.12.2011	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	107588	107612	24	Rückfahrt	Rückfahrt	Rückfahrt	16.12.2011	5		
+5	16.12.2011	Oberursel	Tannenweg	Dlha nad Vahom	Dlha nad Vahom	107612	108631	1019	Business	ECSM	Auftraggeber End of Year Event	16.12.2011	5		
+2	20.12.2011	Dlha nad Vahom	Dlha nad Vahom	Bratislava	Innenstadt	108631	108702	71	Business	ECSM	Auftraggeber End of Year Event	20.12.2011	2		
+2	20.12.2011	Bratislava	Innenstadt	Dlha nad Vahom	Dlha nad Vahom	108702	108771	69	Business	ECSM	Auftraggeber End of Year Event	20.12.2011	2		
+3	28.12.2011	Dlha nad Vahom	Dlha nad Vahom	Oberursel	Tannenweg	108771	109728	957	Rückfahrt	Rückfahrt	Rückfahrt	28.12.2011	3		
+4	29.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	109728	109752	24	Business	ECSM Kunde	Deutsche Bank Projekt	29.12.2011	4		
+4	29.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	109752	109776	24	Rückfahrt	Rückfahrt	Rückfahrt	29.12.2011	4		
+5	30.12.2011	Oberursel	Tannenweg	Frankfurt	Kirchnerstrasse	109776	109800	24	Business	ECSM Kunde	Deutsche Bank Projekt	30.12.2011	5		
+5	30.12.2011	Frankfurt	Kirchnerstrasse	Oberursel	Tannenweg	109800	109824	24	Rückfahrt	Rückfahrt	Rückfahrt	30.12.2011	5		

@@ -1,0 +1,551 @@
+	Startdatum	Startort	Strasse	Zielort	Strasse	Startkilometer	Endkilometer	Strecke	Priv/Business	Person/Firma	Zweck	Ankunftsdatum				
+7	01.01.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	109824	109854	30	Privat	Privatfahrt	Privatfahrt	01.01.2012				
+1	02.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	109854	109877	23	Business	Commerzbank CFP	Commerzbank CFP	02.01.2012				
+1	02.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	109877	109899	22	Business	Rückfahrt	Rückfahrt	02.01.2012				
+2	03.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	109899	109924	25	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	03.01.2012				
+2	03.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	109924	109948	24	Business	Rückfahrt	Rückfahrt	03.01.2012				
+3	04.01.2012	Oberursel	Tannenweg	Frankfurt	Mainzer Landstrasse	109948	109971	23	Business	Commerzbank CFP	Commerzbank CFP	04.01.2012				
+3	04.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	109971	109993	22	Business	Rückfahrt	Rückfahrt	04.01.2012				
+4	05.01.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	109993	110232	239	Business	Commerzbank CFP	Commerzbank CFP	05.01.2012				
+4	05.01.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	110232	110476	244	Business	Rückfahrt	Rückfahrt	05.01.2012				
+5	06.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	110476	110500	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	06.01.2012				
+5	06.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	110500	110524	24	Business	Rückfahrt	Rückfahrt	06.01.2012				
+6	07.01.2012	Oberursel	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	110524	110535	11	Privat	Privatfahrt	Privatfahrt	07.01.2012				
+7	08.01.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	110535	110562	27	Privat	Privatfahrt	Privatfahrt	08.01.2012				
+1	09.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	110562	110586	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	09.01.2012				
+1	09.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	110586	110610	24	Business	Rückfahrt	Rückfahrt	09.01.2012				
+2	10.01.2012	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	110610	110634	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	10.01.2012				
+2	10.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	110634	110658	24	Business	Rückfahrt	Rückfahrt	10.01.2012				
+3	11.01.2012	Oberursel	Tannenweg	Frankfurt	Mainzer Landstrasse	110658	110681	23	Business	Commerzbank CFP	Commerzbank CFP	11.01.2012				
+3	11.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	110681	110703	22	Business	Rückfahrt	Rückfahrt	11.01.2012				
+4	12.01.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	110703	110944	241	Business	Commerzbank CFP	Commerzbank CFP	12.01.2012				
+4	12.01.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	110944	111192	248	Business	Rückfahrt	Rückfahrt	12.01.2012				
+5	13.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	111192	111217	25	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	13.01.2012				
+5	13.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	111217	111241	24	Business	Rückfahrt	Rückfahrt	13.01.2012				
+6	14.01.2012	Oberursel	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	111241	111252	11	Privat	Privatfahrt	Privatfahrt	14.01.2012				
+7	15.01.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	111252	111279	27	Privat	Privatfahrt	Privatfahrt	15.01.2012				
+1	16.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	111279	111303	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	16.01.2012				
+1	16.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	111303	111327	24	Business	Rückfahrt	Rückfahrt	16.01.2012				
+1	16.01.2012	Oberursel	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	111327	111371	44	Privat	Privatfahrt	Privatfahrt	16.01.2012				
+2	17.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	111371	111395	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	17.01.2012				
+2	17.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	111395	111419	24	Business	Rückfahrt	Rückfahrt	17.01.2012				
+2	17.01.2012	Oberursel	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	111419	111450	31	Privat	Privatfahrt	Privatfahrt	17.01.2012				
+3	18.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	111450	111473	23	Business	Commerzbank CFP	Commerzbank CFP	18.01.2012				
+3	18.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	111473	111495	22	Business	Rückfahrt	Rückfahrt	18.01.2012				
+4	19.01.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	111495	111738	243	Business	Commerzbank CFP	Commerzbank CFP	19.01.2012				
+4	19.01.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	111738	111989	251	Business	Rückfahrt	Rückfahrt	19.01.2012				
+5	20.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	111989	112013	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	20.01.2012				
+5	20.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	112013	112037	24	Business	Rückfahrt	Rückfahrt	20.01.2012				
+6	21.01.2012	Oberursel	Tannenweg	Frankfurt	Mainzer Landstrasse	112037	112060	23	Business	Commerzbank CFP	Commerzbank CFP	21.01.2012				
+6	21.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	112060	112082	22	Business	Rückfahrt	Rückfahrt	21.01.2012				
+7	22.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	112082	112105	23	Business	Commerzbank CFP	Commerzbank CFP	22.01.2012				
+7	22.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	112105	112127	22	Business	Rückfahrt	Rückfahrt	22.01.2012				
+1	23.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	112127	112151	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	23.01.2012				
+1	23.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	112151	112175	24	Business	Rückfahrt	Rückfahrt	23.01.2012				
+2	24.01.2012	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	112175	112200	25	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	24.01.2012				
+2	24.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	112200	112224	24	Business	Rückfahrt	Rückfahrt	24.01.2012				
+3	25.01.2012	Oberursel	Tannenweg	Frankfurt	Mainzer Landstrasse	112224	112247	23	Business	Commerzbank CFP	Commerzbank CFP	25.01.2012				
+3	25.01.2012	Frankfurt	Mainzer Landstrasse	Düsseldorf	Friedrichstraße	112247	112491	244	Business	Rückfahrt	Rückfahrt	25.01.2012				
+4	26.01.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	112491	112731	240	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	26.01.2012				
+4	26.01.2012	61440 Oberursel (Taunus)	Tannenweg	Oberursel	Tannenweg	112731	112755	24	Business	Rückfahrt	Rückfahrt	26.01.2012				
+5	27.01.2012	Oberursel	Tannenweg	Frankfurt	Parkhaus Goetheplatz	112755	112779	24	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	27.01.2012				
+5	27.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	112779	112803	24	Business	Rückfahrt	Rückfahrt	27.01.2012				
+6	28.01.2012	Oberursel	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	112803	112814	11	Privat	Privatfahrt	Privatfahrt	28.01.2012				
+7	29.01.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	112814	112841	27	Privat	Privatfahrt	Privatfahrt	29.01.2012				
+1	30.01.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	112841	112866	25	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	30.01.2012				
+1	30.01.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	112866	112890	24	Business	Rückfahrt	Rückfahrt	30.01.2012				
+2	31.01.2012	Oberursel	Tannenweg	Frankfurt	Mainzer Landstrasse	112890	112913	23	Business	Commerzbank CFP	Commerzbank CFP	31.01.2012				
+2	31.01.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	112913	112935	22	Business	Rückfahrt	Rückfahrt	31.01.2012				
+3	01.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	112935	112958	23	Business	Commerzbank CFP	Commerzbank CFP	01.02.2012				
+3	01.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	112958	112980	22	Business	Rückfahrt	Rückfahrt	01.02.2012				
+4	02.02.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	112980	113224	244	Business	Commerzbank CFP	Commerzbank CFP	02.02.2012				
+4	02.02.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	113224	113462	238	Business	Rückfahrt	Rückfahrt	02.02.2012				
+4	02.02.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	113462	113478	16	Privat	Privatfahrt	Privatfahrt	02.02.2012				
+5	03.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	113478	113501	23	Business	Commerzbank CFP	Commerzbank CFP	03.02.2012				
+5	03.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	113501	113523	22	Business	Rückfahrt	Rückfahrt	03.02.2012				
+6	04.02.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	113523	113600	77	Privat	Privatfahrt	Privatfahrt	04.02.2012				
+1	06.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Parkhaus Goetheplatz	113600	113625	25	Business	Deutsche Bank Projekt	Deutsche Bank Projekt	06.02.2012				
+1	06.02.2012	Frankfurt	Parkhaus Goetheplatz	Oberursel	Tannenweg	113625	113649	24	Business	Rückfahrt	Rückfahrt	06.02.2012				
+2	07.02.2012	Oberursel	Tannenweg	Frankfurt	Mainzer Landstrasse	113649	113672	23	Business	Commerzbank CFP	Commerzbank CFP	07.02.2012				
+2	07.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	113672	113694	22	Business	Rückfahrt	Rückfahrt	07.02.2012				
+3	08.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	113694	113717	23	Business	Commerzbank CFP	Commerzbank CFP	08.02.2012				
+3	08.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	113717	113739	22	Business	Rückfahrt	Rückfahrt	08.02.2012				
+4	09.02.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	113739	113980	241	Business	Commerzbank CFP	Commerzbank CFP	09.02.2012				
+4	09.02.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	113980	114222	242	Business	Rückfahrt	Rückfahrt	09.02.2012				
+5	10.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	114222	114245	23	Business	Commerzbank CFP	Commerzbank CFP	10.02.2012				
+5	10.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	114245	114267	22	Business	Rückfahrt	Rückfahrt	10.02.2012				
+1	13.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	114267	114290	23	Business	Commerzbank CFP	Commerzbank CFP	13.02.2012				
+1	13.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	114290	114312	22	Business	Rückfahrt	Rückfahrt	13.02.2012				
+2	14.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	114312	114335	23	Business	Commerzbank CFP	Commerzbank CFP	14.02.2012				
+2	14.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	114335	114357	22	Business	Rückfahrt	Rückfahrt	14.02.2012				
+3	15.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	114357	114380	23	Business	Commerzbank CFP	Commerzbank CFP	15.02.2012				
+3	15.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	114380	114402	22	Business	Rückfahrt	Rückfahrt	15.02.2012				
+3	15.02.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	114402	114435	33	Privat	Privatfahrt	Privatfahrt	15.02.2012				
+4	16.02.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	114435	114673	238	Business	Commerzbank CFP	Commerzbank CFP	16.02.2012				
+4	16.02.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	114673	114913	240	Business	Rückfahrt	Rückfahrt	16.02.2012				
+5	17.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	114913	114936	23	Business	Commerzbank CFP	Commerzbank CFP	17.02.2012				
+5	17.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	114936	114958	22	Business	Rückfahrt	Rückfahrt	17.02.2012				
+6	18.02.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	114958	114978	20	Privat	Privatfahrt	Privatfahrt	18.02.2012				
+1	20.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	114978	115001	23	Business	Commerzbank CFP	Commerzbank CFP	20.02.2012				
+1	20.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115001	115023	22	Business	Rückfahrt	Rückfahrt	20.02.2012				
+2	21.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115023	115046	23	Business	Commerzbank CFP	Commerzbank CFP	21.02.2012				
+2	21.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115046	115068	22	Business	Rückfahrt	Rückfahrt	21.02.2012				
+3	22.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115068	115091	23	Business	Commerzbank CFP	Commerzbank CFP	22.02.2012				
+3	22.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115091	115113	22	Business	Rückfahrt	Rückfahrt	22.02.2012				
+4	23.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115113	115136	23	Business	Commerzbank CFP	Commerzbank CFP	23.02.2012				
+4	23.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115136	115158	22	Business	Rückfahrt	Rückfahrt	23.02.2012				
+5	24.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115158	115181	23	Business	Commerzbank CFP	Commerzbank CFP	24.02.2012				
+5	24.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115181	115203	22	Business	Rückfahrt	Rückfahrt	24.02.2012				
+6	25.02.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	115203	115247	44	Privat	Privatfahrt	Privatfahrt	25.02.2012				
+1	27.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115247	115270	23	Business	Commerzbank CFP	Commerzbank CFP	27.02.2012				
+1	27.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115270	115292	22	Business	Rückfahrt	Rückfahrt	27.02.2012				
+1	27.02.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	115292	115325	33	Privat	Privatfahrt	Privatfahrt	27.02.2012				
+2	28.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115325	115348	23	Business	Commerzbank CFP	Commerzbank CFP	28.02.2012				
+2	28.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115348	115370	22	Business	Rückfahrt	Rückfahrt	28.02.2012				
+3	29.02.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115370	115393	23	Business	Commerzbank CFP	Commerzbank CFP	29.02.2012				
+3	29.02.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115393	115415	22	Business	Rückfahrt	Rückfahrt	29.02.2012				
+4	01.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115415	115438	23	Business	Commerzbank CFP	Commerzbank CFP	01.03.2012				
+4	01.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115438	115460	22	Business	Rückfahrt	Rückfahrt	01.03.2012				
+5	02.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115460	115483	23	Business	Commerzbank CFP	Commerzbank CFP	02.03.2012				
+5	02.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115483	115505	22	Business	Rückfahrt	Rückfahrt	02.03.2012				
+7	04.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	115505	115613	108	Privat	Privatfahrt	Privatfahrt	04.03.2012				
+1	05.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115613	115636	23	Business	Commerzbank CFP	Commerzbank CFP	05.03.2012				
+1	05.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115636	115658	22	Business	Rückfahrt	Rückfahrt	05.03.2012				
+2	06.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115658	115681	23	Business	Commerzbank CFP	Commerzbank CFP	06.03.2012				
+2	06.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115681	115703	22	Business	Rückfahrt	Rückfahrt	06.03.2012				
+3	07.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115703	115726	23	Business	Commerzbank CFP	Commerzbank CFP	07.03.2012				
+3	07.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115726	115748	22	Business	Rückfahrt	Rückfahrt	07.03.2012				
+4	08.03.2012	61440 Oberursel (Taunus)	Tannenweg	Oberursel	An den 3 Hasen	115748	115759	11	Business	ATU Oberursel	ATU Oberursel	08.03.2012				
+4	08.03.2012	Oberursel	An den 3 Hasen	61440 Oberursel (Taunus)	Tannenweg	115759	115773	14	Business	Rückfahrt	Rückfahrt	08.03.2012				
+4	08.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	115773	115802	29	Privat	Privatfahrt	Privatfahrt	08.03.2012				
+5	09.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115802	115825	23	Business	Commerzbank CFP	Commerzbank CFP	09.03.2012				
+5	09.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115825	115847	22	Business	Rückfahrt	Rückfahrt	09.03.2012				
+6	10.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	115847	115885	38	Privat	Privatfahrt	Privatfahrt	10.03.2012				
+1	12.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115885	115908	23	Business	Commerzbank CFP	Commerzbank CFP	12.03.2012				
+1	12.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115908	115930	22	Business	Rückfahrt	Rückfahrt	12.03.2012				
+2	13.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115930	115953	23	Business	Commerzbank CFP	Commerzbank CFP	13.03.2012				
+2	13.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115953	115975	22	Business	Rückfahrt	Rückfahrt	13.03.2012				
+3	14.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	115975	115998	23	Business	Commerzbank CFP	Commerzbank CFP	14.03.2012				
+3	14.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	115998	116024	26	Privat	Privatfahrt	Privatfahrt	14.03.2012				
+3	14.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	116024	116046	22	Business	Rückfahrt	Rückfahrt	14.03.2012				
+4	15.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116046	116069	23	Business	Commerzbank CFP	Commerzbank CFP	15.03.2012				
+4	15.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116069	116091	22	Business	Rückfahrt	Rückfahrt	15.03.2012				
+5	16.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116091	116114	23	Business	Commerzbank CFP	Commerzbank CFP	16.03.2012				
+5	16.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116114	116136	22	Business	Rückfahrt	Rückfahrt	16.03.2012				
+7	18.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	116136	116192	56	Privat	Privatfahrt	Privatfahrt	18.03.2012				
+1	19.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116192	116215	23	Business	Commerzbank CFP	Commerzbank CFP	19.03.2012				
+1	19.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116215	116237	22	Business	Rückfahrt	Rückfahrt	19.03.2012				
+2	20.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116237	116260	23	Business	Commerzbank CFP	Commerzbank CFP	20.03.2012				
+2	20.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116260	116282	22	Business	Rückfahrt	Rückfahrt	20.03.2012				
+3	21.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116282	116305	23	Business	Commerzbank CFP	Commerzbank CFP	21.03.2012				
+3	21.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116305	116327	22	Business	Rückfahrt	Rückfahrt	21.03.2012				
+4	22.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116327	116350	23	Business	Commerzbank CFP	Commerzbank CFP	22.03.2012				
+4	22.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116350	116372	22	Business	Rückfahrt	Rückfahrt	22.03.2012				
+5	23.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116372	116395	23	Business	Commerzbank CFP	Commerzbank CFP	23.03.2012				
+5	23.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116395	116417	22	Business	Rückfahrt	Rückfahrt	23.03.2012				
+6	24.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	116417	116474	57	Privat	Privatfahrt	Privatfahrt	24.03.2012				
+1	26.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116474	116497	23	Business	Commerzbank CFP	Commerzbank CFP	26.03.2012				
+1	26.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116497	116519	22	Business	Rückfahrt	Rückfahrt	26.03.2012				
+2	27.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116519	116542	23	Business	Commerzbank CFP	Commerzbank CFP	27.03.2012				
+2	27.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116542	116564	22	Business	Rückfahrt	Rückfahrt	27.03.2012				
+3	28.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116564	116587	23	Business	Commerzbank CFP	Commerzbank CFP	28.03.2012				
+3	28.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116587	116609	22	Business	Rückfahrt	Rückfahrt	28.03.2012				
+4	29.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116609	116632	23	Business	Commerzbank CFP	Commerzbank CFP	29.03.2012				
+4	29.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116632	116654	22	Business	Rückfahrt	Rückfahrt	29.03.2012				
+5	30.03.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Mainzer Landstrasse	116654	116677	23	Business	Commerzbank CFP	Commerzbank CFP	30.03.2012				
+5	30.03.2012	Frankfurt	Mainzer Landstrasse	61440 Oberursel (Taunus)	Tannenweg	116677	116699	22	Business	Rückfahrt	Rückfahrt	30.03.2012				
+6	31.03.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	116699	116754	55	Privat	Privatfahrt	Privatfahrt	31.03.2012				
+1	02.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	116754	116776	22	Business	DZ Bank Risk	DZ Bank Risk	02.04.2012				
+1	02.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	116776	116798	22	Business	Rückfahrt	Rückfahrt	02.04.2012				
+2	03.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	116798	116822	24	Business	DZ Bank Risk	DZ Bank Risk	03.04.2012				
+2	03.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	116822	116845	23	Business	Rückfahrt	Rückfahrt	03.04.2012				
+3	04.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	116845	116869	24	Business	DZ Bank Risk	DZ Bank Risk	04.04.2012				
+3	04.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	116869	116892	23	Business	Rückfahrt	Rückfahrt	04.04.2012				
+4	05.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	116892	116913	21	Business	DZ Bank Risk	DZ Bank Risk	05.04.2012				
+4	05.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	116913	116937	24	Business	Rückfahrt	Rückfahrt	05.04.2012				
+4	05.04.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	116937	116955	18	Privat	Privatfahrt	Privatfahrt	05.04.2012				
+6	07.04.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	116955	116966	11	Privat	Privatfahrt	Privatfahrt	07.04.2012				
+6	07.04.2012	61440 Oberursel (Taunus)	Tannenweg			116966	116966	0	Business	0	0	07.04.2012				
+7	08.04.2012	0	0	61440 Oberursel (Taunus)	Tannenweg	116966	117024	58	Privat	Privatfahrt	Privatfahrt	08.04.2012				
+2	10.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117024	117048	24	Business	DZ Bank Risk	DZ Bank Risk	10.04.2012				
+2	10.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117048	117072	24	Business	Rückfahrt	Rückfahrt	10.04.2012				
+3	11.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117072	117096	24	Business	DZ Bank Risk	DZ Bank Risk	11.04.2012				
+3	11.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117096	117119	23	Business	Rückfahrt	Rückfahrt	11.04.2012				
+4	12.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117119	117140	21	Business	DZ Bank Risk	DZ Bank Risk	12.04.2012				
+4	12.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117140	117161	21	Business	Rückfahrt	Rückfahrt	12.04.2012				
+5	13.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117161	117184	23	Business	DZ Bank Risk	DZ Bank Risk	13.04.2012				
+5	13.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117184	117207	23	Business	Rückfahrt	Rückfahrt	13.04.2012				
+1	16.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117207	117229	22	Business	DZ Bank Risk	DZ Bank Risk	16.04.2012				
+1	16.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117229	117252	23	Business	Rückfahrt	Rückfahrt	16.04.2012				
+2	17.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117252	117275	23	Business	DZ Bank Risk	DZ Bank Risk	17.04.2012				
+2	17.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117275	117299	24	Business	Rückfahrt	Rückfahrt	17.04.2012				
+2	17.04.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	117299	117346	47	Privat	Privatfahrt	Privatfahrt	17.04.2012				
+3	18.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117346	117367	21	Business	DZ Bank Risk	DZ Bank Risk	18.04.2012				
+3	18.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117367	117391	24	Business	Rückfahrt	Rückfahrt	18.04.2012				
+4	19.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117391	117415	24	Business	DZ Bank Risk	DZ Bank Risk	19.04.2012				
+4	19.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117415	117439	24	Business	Rückfahrt	Rückfahrt	19.04.2012				
+5	20.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117439	117462	23	Business	DZ Bank Risk	DZ Bank Risk	20.04.2012				
+5	20.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117462	117486	24	Business	Rückfahrt	Rückfahrt	20.04.2012				
+7	22.04.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	117486	117536	50	Privat	Privatfahrt	Privatfahrt	22.04.2012				
+1	23.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117536	117559	23	Business	DZ Bank Risk	DZ Bank Risk	23.04.2012				
+1	23.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117559	117582	23	Business	Rückfahrt	Rückfahrt	23.04.2012				
+2	24.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117582	117604	22	Business	DZ Bank Risk	DZ Bank Risk	24.04.2012				
+2	24.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117604	117628	24	Business	Rückfahrt	Rückfahrt	24.04.2012				
+3	25.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117628	117651	23	Business	DZ Bank Risk	DZ Bank Risk	25.04.2012				
+3	25.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117651	117674	23	Business	Rückfahrt	Rückfahrt	25.04.2012				
+4	26.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117674	117698	24	Business	DZ Bank Risk	DZ Bank Risk	26.04.2012				
+4	26.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117698	117719	21	Business	Rückfahrt	Rückfahrt	26.04.2012				
+4	26.04.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	117719	117748	29	Privat	Privatfahrt	Privatfahrt	26.04.2012				
+5	27.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117748	117770	22	Business	DZ Bank Risk	DZ Bank Risk	27.04.2012				
+5	27.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117770	117793	23	Business	Rückfahrt	Rückfahrt	27.04.2012				
+6	28.04.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	117793	117840	47	Privat	Privatfahrt	Privatfahrt	28.04.2012				
+1	30.04.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117840	117861	21	Business	DZ Bank Risk	DZ Bank Risk	30.04.2012				
+1	30.04.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117861	117882	21	Business	Rückfahrt	Rückfahrt	30.04.2012				
+2	01.05.2012	61440 Oberursel (Taunus)	Tannenweg			117882	117882	0	Business	0	0	01.05.2012				
+2	01.05.2012	0	0	61440 Oberursel (Taunus)	Tannenweg	117882	117929	47	Privat	Privatfahrt	Privatfahrt	01.05.2012				
+3	02.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117929	117952	23	Business	DZ Bank Risk	DZ Bank Risk	02.05.2012				
+3	02.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117952	117977	25	Business	Rückfahrt	Rückfahrt	02.05.2012				
+4	03.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	117977	117999	22	Business	DZ Bank Risk	DZ Bank Risk	03.05.2012				
+4	03.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	117999	118032	33	Privat	Privatfahrt	Privatfahrt	03.05.2012				
+4	03.05.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	118032	118054	22	Business	Rückfahrt	Rückfahrt	03.05.2012				
+5	04.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118054	118079	25	Business	DZ Bank Risk	DZ Bank Risk	04.05.2012				
+5	04.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118079	118101	22	Business	Rückfahrt	Rückfahrt	04.05.2012				
+7	06.05.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	118101	118120	19	Privat	Privatfahrt	Privatfahrt	06.05.2012				
+1	07.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118120	118142	22	Business	DZ Bank Risk	DZ Bank Risk	07.05.2012				
+1	07.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118142	118166	24	Business	Rückfahrt	Rückfahrt	07.05.2012				
+2	08.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118166	118190	24	Business	DZ Bank Risk	DZ Bank Risk	08.05.2012				
+2	08.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118190	118212	22	Business	Rückfahrt	Rückfahrt	08.05.2012				
+3	09.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118212	118235	23	Business	DZ Bank Risk	DZ Bank Risk	09.05.2012				
+3	09.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118235	118260	25	Business	Rückfahrt	Rückfahrt	09.05.2012				
+4	10.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118260	118285	25	Business	DZ Bank Risk	DZ Bank Risk	10.05.2012				
+4	10.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118285	118307	22	Business	Rückfahrt	Rückfahrt	10.05.2012				
+5	11.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118307	118329	22	Business	DZ Bank Risk	DZ Bank Risk	11.05.2012				
+5	11.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118329	118354	25	Business	Rückfahrt	Rückfahrt	11.05.2012				
+1	14.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118354	118378	24	Business	DZ Bank Risk	DZ Bank Risk	14.05.2012				
+1	14.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118378	118402	24	Business	Rückfahrt	Rückfahrt	14.05.2012				
+2	15.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118402	118424	22	Business	DZ Bank Risk	DZ Bank Risk	15.05.2012				
+2	15.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118424	118449	25	Business	Rückfahrt	Rückfahrt	15.05.2012				
+3	16.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118449	118474	25	Business	DZ Bank Risk	DZ Bank Risk	16.05.2012				
+3	16.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118474	118497	23	Business	Rückfahrt	Rückfahrt	16.05.2012				
+5	18.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118497	118520	23	Business	DZ Bank Risk	DZ Bank Risk	18.05.2012				
+5	18.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118520	118543	23	Business	Rückfahrt	Rückfahrt	18.05.2012				
+1	21.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118543	118568	25	Business	DZ Bank Risk	DZ Bank Risk	21.05.2012				
+1	21.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118568	118592	24	Business	Rückfahrt	Rückfahrt	21.05.2012				
+2	22.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118592	118614	22	Business	DZ Bank Risk	DZ Bank Risk	22.05.2012				
+2	22.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118614	118638	24	Business	Rückfahrt	Rückfahrt	22.05.2012				
+3	23.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118638	118662	24	Business	DZ Bank Risk	DZ Bank Risk	23.05.2012				
+3	23.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118662	118684	22	Business	Rückfahrt	Rückfahrt	23.05.2012				
+4	24.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118684	118708	24	Business	DZ Bank Risk	DZ Bank Risk	24.05.2012				
+4	24.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118708	118749	41	Privat	Privatfahrt	Privatfahrt	24.05.2012				
+4	24.05.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	118749	118772	23	Business	Rückfahrt	Rückfahrt	24.05.2012				
+5	25.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118772	118794	22	Business	DZ Bank Risk	DZ Bank Risk	25.05.2012				
+5	25.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118794	118819	25	Business	Rückfahrt	Rückfahrt	25.05.2012				
+6	26.05.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	118819	118840	21	Privat	Privatfahrt	Privatfahrt	26.05.2012				
+2	29.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118840	118863	23	Business	DZ Bank Risk	DZ Bank Risk	29.05.2012				
+2	29.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118863	118886	23	Business	Rückfahrt	Rückfahrt	29.05.2012				
+3	30.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118886	118910	24	Business	DZ Bank Risk	DZ Bank Risk	30.05.2012				
+3	30.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118910	118934	24	Business	Rückfahrt	Rückfahrt	30.05.2012				
+4	31.05.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	118934	118959	25	Business	DZ Bank Risk	DZ Bank Risk	31.05.2012				
+4	31.05.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	118959	118984	25	Business	Rückfahrt	Rückfahrt	31.05.2012				
+4	31.05.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	118984	119028	44	Privat	Privatfahrt	Privatfahrt	31.05.2012				
+5	01.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119028	119052	24	Business	DZ Bank Risk	DZ Bank Risk	01.06.2012				
+5	01.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119052	119076	24	Business	Rückfahrt	Rückfahrt	01.06.2012				
+6	02.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	119076	119103	27	Privat	Privatfahrt	Privatfahrt	02.06.2012				
+1	04.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119103	119128	25	Business	DZ Bank Risk	DZ Bank Risk	04.06.2012				
+1	04.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119128	119152	24	Business	Rückfahrt	Rückfahrt	04.06.2012				
+2	05.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119152	119175	23	Business	DZ Bank Risk	DZ Bank Risk	05.06.2012				
+2	05.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119175	119199	24	Business	Rückfahrt	Rückfahrt	05.06.2012				
+3	06.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119199	119222	23	Business	DZ Bank Risk	DZ Bank Risk	06.06.2012				
+3	06.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119222	119247	25	Business	Rückfahrt	Rückfahrt	06.06.2012				
+4	07.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	119247	119340	93	Privat	Privatfahrt	Privatfahrt	07.06.2012				
+5	08.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119340	119364	24	Business	DZ Bank Risk	DZ Bank Risk	08.06.2012				
+5	08.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119364	119388	24	Business	Rückfahrt	Rückfahrt	08.06.2012				
+6	09.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	119388	119442	54	Privat	Privatfahrt	Privatfahrt	09.06.2012				
+1	11.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119442	119467	25	Business	DZ Bank Risk	DZ Bank Risk	11.06.2012				
+1	11.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119467	119492	25	Business	Rückfahrt	Rückfahrt	11.06.2012				
+2	12.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119492	119516	24	Business	DZ Bank Risk	DZ Bank Risk	12.06.2012				
+2	12.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119516	119541	25	Business	Rückfahrt	Rückfahrt	12.06.2012				
+3	13.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119541	119565	24	Business	DZ Bank Risk	DZ Bank Risk	13.06.2012				
+3	13.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119565	119589	24	Business	Rückfahrt	Rückfahrt	13.06.2012				
+4	14.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119589	119612	23	Business	DZ Bank Risk	DZ Bank Risk	14.06.2012				
+4	14.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119612	119636	24	Business	Rückfahrt	Rückfahrt	14.06.2012				
+5	15.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119636	119660	24	Business	DZ Bank Risk	DZ Bank Risk	15.06.2012				
+5	15.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119660	119685	25	Business	Rückfahrt	Rückfahrt	15.06.2012				
+6	16.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	119685	119740	55	Privat	Privatfahrt	Privatfahrt	16.06.2012				
+1	18.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119740	119765	25	Business	DZ Bank Risk	DZ Bank Risk	18.06.2012				
+1	18.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119765	119788	23	Business	Rückfahrt	Rückfahrt	18.06.2012				
+2	19.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119788	119812	24	Business	DZ Bank Risk	DZ Bank Risk	19.06.2012				
+2	19.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119812	119835	23	Business	Rückfahrt	Rückfahrt	19.06.2012				
+3	20.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119835	119858	23	Business	DZ Bank Risk	DZ Bank Risk	20.06.2012				
+3	20.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119858	119882	24	Business	Rückfahrt	Rückfahrt	20.06.2012				
+4	21.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119882	119907	25	Business	DZ Bank Risk	DZ Bank Risk	21.06.2012				
+4	21.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119907	119932	25	Business	Rückfahrt	Rückfahrt	21.06.2012				
+4	21.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	119932	119962	30	Privat	Privatfahrt	Privatfahrt	21.06.2012				
+5	22.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	119962	119987	25	Business	DZ Bank Risk	DZ Bank Risk	22.06.2012				
+5	22.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	119987	120011	24	Business	Rückfahrt	Rückfahrt	22.06.2012				
+7	24.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	120011	120043	32	Privat	Privatfahrt	Privatfahrt	24.06.2012				
+1	25.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120043	120068	25	Business	DZ Bank Risk	DZ Bank Risk	25.06.2012				
+1	25.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120068	120090	22	Business	Rückfahrt	Rückfahrt	25.06.2012				
+2	26.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120090	120112	22	Business	DZ Bank Risk	DZ Bank Risk	26.06.2012				
+2	26.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120112	120138	26	Business	Rückfahrt	Rückfahrt	26.06.2012				
+3	27.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120138	120160	22	Business	DZ Bank Risk	DZ Bank Risk	27.06.2012				
+3	27.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120160	120186	26	Business	Rückfahrt	Rückfahrt	27.06.2012				
+3	27.06.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	120186	120215	29	Privat	Privatfahrt	Privatfahrt	27.06.2012				
+4	28.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120215	120240	25	Business	DZ Bank Risk	DZ Bank Risk	28.06.2012				
+4	28.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120240	120265	25	Business	Rückfahrt	Rückfahrt	28.06.2012				
+5	29.06.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120265	120288	23	Business	DZ Bank Risk	DZ Bank Risk	29.06.2012				
+5	29.06.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120288	120314	26	Business	Rückfahrt	Rückfahrt	29.06.2012				
+1	02.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120314	120339	25	Business	DZ Bank Risk	DZ Bank Risk	02.07.2012				
+1	02.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120339	120365	26	Business	Rückfahrt	Rückfahrt	02.07.2012				
+2	03.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120365	120387	22	Business	DZ Bank Risk	DZ Bank Risk	03.07.2012				
+2	03.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120387	120410	23	Business	Rückfahrt	Rückfahrt	03.07.2012				
+3	04.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120410	120432	22	Business	DZ Bank Risk	DZ Bank Risk	04.07.2012				
+3	04.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120432	120458	26	Business	Rückfahrt	Rückfahrt	04.07.2012				
+4	05.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120458	120481	23	Business	DZ Bank Risk	DZ Bank Risk	05.07.2012				
+4	05.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120481	120506	25	Business	Rückfahrt	Rückfahrt	05.07.2012				
+5	06.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120506	120531	25	Business	DZ Bank Risk	DZ Bank Risk	06.07.2012				
+5	06.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120531	120556	25	Business	Rückfahrt	Rückfahrt	06.07.2012				
+7	08.07.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	120556	120565	9	Privat	Privatfahrt	Privatfahrt	08.07.2012				
+1	09.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120565	120587	22	Business	DZ Bank Risk	DZ Bank Risk	09.07.2012				
+1	09.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120587	120611	24	Business	Rückfahrt	Rückfahrt	09.07.2012				
+2	10.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120611	120633	22	Business	DZ Bank Risk	DZ Bank Risk	10.07.2012				
+2	10.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120633	120657	24	Business	Rückfahrt	Rückfahrt	10.07.2012				
+3	11.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120657	120682	25	Business	DZ Bank Risk	DZ Bank Risk	11.07.2012				
+3	11.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120682	120707	25	Business	Rückfahrt	Rückfahrt	11.07.2012				
+4	12.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120707	120729	22	Business	DZ Bank Risk	DZ Bank Risk	12.07.2012				
+4	12.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120729	120751	22	Business	Rückfahrt	Rückfahrt	12.07.2012				
+4	12.07.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	120751	120759	8	Privat	Privatfahrt	Privatfahrt	12.07.2012				
+5	13.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120759	120784	25	Business	DZ Bank Risk	DZ Bank Risk	13.07.2012				
+5	13.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120784	120808	24	Business	Rückfahrt	Rückfahrt	13.07.2012				
+1	16.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120808	120831	23	Business	DZ Bank Risk	DZ Bank Risk	16.07.2012				
+1	16.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120831	120855	24	Business	Rückfahrt	Rückfahrt	16.07.2012				
+2	17.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120855	120881	26	Business	DZ Bank Risk	DZ Bank Risk	17.07.2012				
+2	17.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120881	120903	22	Business	Rückfahrt	Rückfahrt	17.07.2012				
+3	18.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120903	120926	23	Business	DZ Bank Risk	DZ Bank Risk	18.07.2012				
+3	18.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120926	120951	25	Business	Rückfahrt	Rückfahrt	18.07.2012				
+4	19.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120951	120975	24	Business	DZ Bank Risk	DZ Bank Risk	19.07.2012				
+4	19.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	120975	120997	22	Business	Rückfahrt	Rückfahrt	19.07.2012				
+5	20.07.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Westend	120997	121019	22	Business	DZ Bank Risk	DZ Bank Risk	20.07.2012				
+5	20.07.2012	Frankfurt	Westend	61440 Oberursel (Taunus)	Tannenweg	121019	121043	24	Business	Rückfahrt	Rückfahrt	20.07.2012				
+7	22.07.2012	61440 Oberursel (Taunus)	Tannenweg	Inssbruck, AT	Inssbruck, AT	121043	121661	618	Privat	Privatfahrt	Privatfahrt	22.07.2012				
+1	23.07.2012	Inssbruck, AT	Inssbruck, AT	Inssbruck, AT	Inssbruck, AT	121661	121702	41	Privat	Privatfahrt	Privatfahrt	23.07.2012				
+2	24.07.2012	Inssbruck, AT	Inssbruck, AT	Inssbruck, AT	Inssbruck, AT	121702	121720	18	Privat	Privatfahrt	Privatfahrt	24.07.2012				
+3	25.07.2012	Inssbruck, AT	Inssbruck, AT	Inssbruck, AT	Inssbruck, AT	121720	121741	21	Privat	Privatfahrt	Privatfahrt	25.07.2012				
+4	26.07.2012	Inssbruck, AT	Inssbruck, AT	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	121741	122400	659	Business	ECSM	ECSM	26.07.2012				
+5	27.07.2012	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	Bratislava, Slowakei	Bratislava, Slowakei	122400	122469	69	Business	ECSM	ECSM	27.07.2012				
+5	27.07.2012	Bratislava, Slowakei	Bratislava, Slowakei	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	122469	122543	74	Business	ECSM	ECSM	27.07.2012				
+6	28.07.2012	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	122543	122624	81	Privat	Privatfahrt	Privatfahrt	28.07.2012				
+1	06.08.2012	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	Schwechat, AT	Flughafen	122624	122768	144	Business	Flughafentransfer	Flughafentransfer	06.08.2012				
+5	10.08.2012	Schwechat, AT	Flughafen	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	122768	122919	151	Business	Flughafentransfer	Flughafentransfer	10.08.2012				
+6	11.08.2012	Dlha nad Vahom, Slowakei	Dlha nad Vahom, Slowakei	61440 Oberursel (Taunus)	Tannenweg	122919	123860	941	Business	Heimfahrt	Heimfahrt	11.08.2012				
+1	13.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	123860	123886	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	13.08.2012				
+1	13.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	123886	123908	22	Business	Heimfahrt	Heimfahrt	13.08.2012				
+2	14.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	123908	123934	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	14.08.2012				
+2	14.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	123934	123957	23	Business	Heimfahrt	Heimfahrt	14.08.2012				
+3	15.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	123957	123982	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	15.08.2012				
+3	15.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	123982	124004	22	Business	Heimfahrt	Heimfahrt	15.08.2012				
+4	16.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	124004	124028	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	16.08.2012				
+4	16.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124028	124053	25	Business	Heimfahrt	Heimfahrt	16.08.2012				
+5	17.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	124053	124079	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	17.08.2012				
+5	17.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124079	124105	26	Business	Heimfahrt	Heimfahrt	17.08.2012				
+7	19.08.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	124105	124246	141	Privat	Privatfahrt	Privatfahrt	19.08.2012				
+1	20.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	124246	124272	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	20.08.2012				
+1	20.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124272	124295	23	Business	Heimfahrt	Heimfahrt	20.08.2012				
+2	21.08.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	124295	124536	241	Business	Commerzbank CFP	Commerzbank CFP	21.08.2012				
+2	21.08.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	124536	124784	248	Business	Rückfahrt	Rückfahrt	21.08.2012				
+3	22.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	124784	124808	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	22.08.2012				
+3	22.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124808	124831	23	Business	Heimfahrt	Heimfahrt	22.08.2012				
+4	23.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	124831	124854	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	23.08.2012				
+4	23.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124854	124878	24	Business	Heimfahrt	Heimfahrt	23.08.2012				
+5	24.08.2012	61440 Oberursel (Taunus)	Tannenweg	Oberrursel	An den 3 Hasen	124878	124894	16	Business	ATU	ATU	24.08.2012				
+5	24.08.2012	Oberrursel	An den 3 Hasen	60486 Frankfurt	Ederstraße	124894	124913	19	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	24.08.2012				
+5	24.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124913	124938	25	Business	Heimfahrt	Heimfahrt	24.08.2012				
+1	27.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	124938	124964	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	27.08.2012				
+1	27.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	124964	124990	26	Business	Heimfahrt	Heimfahrt	27.08.2012				
+2	28.08.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	124990	125231	241	Business	Commerzbank CFP	Commerzbank CFP	28.08.2012				
+2	28.08.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	125231	125479	248	Business	Rückfahrt	Rückfahrt	28.08.2012				
+3	29.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	125479	125502	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	29.08.2012				
+3	29.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	125502	125526	24	Business	Heimfahrt	Heimfahrt	29.08.2012				
+4	30.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	125526	125548	22	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	30.08.2012				
+4	30.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	125548	125571	23	Business	Heimfahrt	Heimfahrt	30.08.2012				
+5	31.08.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	125571	125594	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	31.08.2012				
+5	31.08.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	125594	125616	22	Business	Heimfahrt	Heimfahrt	31.08.2012				
+1	03.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	125616	125638	22	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	03.09.2012				
+1	03.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	125638	125664	26	Business	Heimfahrt	Heimfahrt	03.09.2012				
+2	04.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	125664	125689	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	04.09.2012				
+2	04.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	125689	125712	23	Business	Heimfahrt	Heimfahrt	04.09.2012				
+3	05.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	125712	125736	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	05.09.2012				
+3	05.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	125736	125759	23	Business	Heimfahrt	Heimfahrt	05.09.2012				
+4	06.09.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	125759	126000	241	Business	Commerzbank CFP	Commerzbank CFP	06.09.2012				
+4	06.09.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	126000	126248	248	Business	Rückfahrt	Rückfahrt	06.09.2012				
+5	07.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	126248	126270	22	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	07.09.2012				
+5	07.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	126270	126295	25	Business	Heimfahrt	Heimfahrt	07.09.2012				
+1	10.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	126295	126319	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	10.09.2012				
+1	10.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	126319	126342	23	Business	Heimfahrt	Heimfahrt	10.09.2012				
+2	11.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	126342	126365	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	11.09.2012				
+2	11.09.2012	60486 Frankfurt	Ederstraße	60488 Frankfurt	Ederstraße	126365	126379	14	Business	Privatfahrt	Privatfahrt	11.09.2012				
+2	11.09.2012	60488 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	126379	126401	22	Business	Heimfahrt	Heimfahrt	11.09.2012				
+3	12.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	126401	126426	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	12.09.2012				
+3	12.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	126426	126450	24	Business	Heimfahrt	Heimfahrt	12.09.2012				
+4	13.09.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	126450	126691	241	Business	Commerzbank CFP	Commerzbank CFP	13.09.2012				
+4	13.09.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	126691	126939	248	Business	Rückfahrt	Rückfahrt	13.09.2012				
+5	14.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	126939	126965	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	14.09.2012				
+5	14.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	126965	126987	22	Business	Heimfahrt	Heimfahrt	14.09.2012				
+1	17.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	126987	127011	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	17.09.2012				
+1	17.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127011	127036	25	Business	Heimfahrt	Heimfahrt	17.09.2012				
+2	18.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127036	127060	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	18.09.2012				
+2	18.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127060	127086	26	Business	Heimfahrt	Heimfahrt	18.09.2012				
+3	19.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127086	127110	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	19.09.2012				
+3	19.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127110	127136	26	Business	Heimfahrt	Heimfahrt	19.09.2012				
+4	20.09.2012	61440 Oberursel (Taunus)	Tannenweg	Düsseldorf	Friedrichstraße	127136	127377	241	Business	Commerzbank CFP	Commerzbank CFP	20.09.2012				
+4	20.09.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	127377	127625	248	Business	Rückfahrt	Rückfahrt	20.09.2012				
+5	21.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127625	127649	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	21.09.2012				
+5	21.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127649	127671	22	Business	Heimfahrt	Heimfahrt	21.09.2012				
+1	24.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127671	127696	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	24.09.2012				
+1	24.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127696	127719	23	Business	Heimfahrt	Heimfahrt	24.09.2012				
+2	25.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127719	127745	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	25.09.2012				
+2	25.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127745	127771	26	Business	Heimfahrt	Heimfahrt	25.09.2012				
+3	26.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127771	127795	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	26.09.2012				
+3	26.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127795	127818	23	Business	Heimfahrt	Heimfahrt	26.09.2012				
+4	27.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127818	127844	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	27.09.2012				
+4	27.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127844	127868	24	Business	Heimfahrt	Heimfahrt	27.09.2012				
+5	28.09.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	127868	127892	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	28.09.2012				
+5	28.09.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	127892	127914	22	Business	Heimfahrt	Heimfahrt	28.09.2012				
+1	01.10.2012	61440 Oberursel (Taunus)	Tannenweg	Frankfurt	Börsenparkhaus	127914	127914	0	Business	Commerzbank CFP	Commerzbank CFP	01.10.2012				
+1	01.10.2012	Frankfurt	Börsenparkhaus	Düsseldorf	Friedrichstraße	127914	128155	241	Business	Commerzbank CFP	Commerzbank CFP	01.10.2012				
+1	01.10.2012	Düsseldorf	Friedrichstraße	61440 Oberursel (Taunus)	Tannenweg	128155	128403	248	Business	Rückfahrt	Rückfahrt	01.10.2012				
+2	02.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128403	128429	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	02.10.2012				
+2	02.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128429	128455	26	Business	Heimfahrt	Heimfahrt	02.10.2012				
+3	03.10.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	128455	128546	91	Business	Privatfahrt	Privatfahrt	03.10.2012				
+4	04.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128546	128568	22	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	04.10.2012				
+4	04.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128568	128594	26	Business	Heimfahrt	Heimfahrt	04.10.2012				
+5	05.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128594	128617	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	05.10.2012				
+5	05.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128617	128643	26	Business	Heimfahrt	Heimfahrt	05.10.2012				
+6	06.10.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	128643	128661	18	Privat	Privatfahrt	Privatfahrt	06.10.2012				
+1	08.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128661	128686	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	08.10.2012				
+1	08.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128686	128712	26	Business	Heimfahrt	Heimfahrt	08.10.2012				
+2	09.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128712	128738	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	09.10.2012				
+2	09.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128738	128763	25	Business	Heimfahrt	Heimfahrt	09.10.2012				
+3	10.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128763	128788	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	10.10.2012				
+3	10.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128788	128814	26	Business	Heimfahrt	Heimfahrt	10.10.2012				
+4	11.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128814	128839	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	11.10.2012				
+4	11.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128839	128861	22	Business	Heimfahrt	Heimfahrt	11.10.2012				
+5	12.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128861	128884	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	12.10.2012				
+5	12.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128884	128908	24	Business	Heimfahrt	Heimfahrt	12.10.2012				
+1	15.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128908	128931	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	15.10.2012				
+1	15.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128931	128952	21	Business	Heimfahrt	Heimfahrt	15.10.2012				
+2	16.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128952	128974	22	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	16.10.2012				
+2	16.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	128974	128996	22	Business	Heimfahrt	Heimfahrt	16.10.2012				
+3	17.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	128996	129019	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	17.10.2012				
+3	17.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129019	129040	21	Business	Heimfahrt	Heimfahrt	17.10.2012				
+3	17.10.2012	61440 Oberursel (Taunus)	Tannenweg	60433 Frankfurt	August-Schanz-Straße	129040	129056	16	Privat	automatically started	automatically started	17.10.2012				
+3	17.10.2012	60433 Frankfurt	August-Schanz-Straße	61440 Oberursel (Taunus)	Tannenweg	129056	129070	14	Privat	automatically started	automatically started	17.10.2012				
+4	18.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129070	129094	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	18.10.2012				
+4	18.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129094	129118	24	Business	Heimfahrt	Heimfahrt	18.10.2012				
+5	19.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129118	129139	21	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	19.10.2012				
+5	19.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129139	129158	19	Business	Heimfahrt	Heimfahrt	19.10.2012				
+1	22.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129158	129181	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	22.10.2012				
+1	22.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129181	129202	21	Business	Heimfahrt	Heimfahrt	22.10.2012				
+1	22.10.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	129202	129208	6	Privat	Privat	Privat	22.10.2012				
+2	23.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129208	129232	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	23.10.2012				
+2	23.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129232	129253	21	Business	Heimfahrt	Heimfahrt	23.10.2012				
+3	24.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129253	129276	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	24.10.2012				
+3	24.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129276	129298	22	Business	Heimfahrt	Heimfahrt	24.10.2012				
+4	25.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129298	129321	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	25.10.2012				
+4	25.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129321	129345	24	Business	Heimfahrt	Heimfahrt	25.10.2012				
+1	29.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129345	129368	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	29.10.2012				
+1	29.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129368	129393	25	Business	Heimfahrt	Heimfahrt	29.10.2012				
+2	30.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129393	129416	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	30.10.2012				
+2	30.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129416	129439	23	Business	Heimfahrt	Heimfahrt	30.10.2012				
+3	31.10.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129439	129463	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	31.10.2012				
+3	31.10.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129463	129486	23	Business	Heimfahrt	Heimfahrt	31.10.2012				
+4	01.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129486	129510	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	01.11.2012				
+4	01.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129510	129534	24	Business	Heimfahrt	Heimfahrt	01.11.2012				
+5	02.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129534	129557	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	02.11.2012				
+5	02.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129557	129580	23	Business	Heimfahrt	Heimfahrt	02.11.2012				
+5	02.11.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	129580	129603	23	Privat	Privat	Privat	02.11.2012				
+1	05.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129603	129626	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	05.11.2012				
+1	05.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129626	129649	23	Business	Heimfahrt	Heimfahrt	05.11.2012				
+2	06.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129649	129672	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	06.11.2012				
+2	06.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129672	129695	23	Business	Heimfahrt	Heimfahrt	06.11.2012				
+3	07.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129695	129718	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	07.11.2012				
+3	07.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129718	129741	23	Business	Heimfahrt	Heimfahrt	07.11.2012				
+4	08.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129741	129764	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	08.11.2012				
+4	08.11.2012	60486 Frankfurt	Ederstraße	60486 Frankfurt	Ederstraße	129764	129772	8	Privat	Mittagsessen innenstadt	Mittagsessen innenstadt	08.11.2012				
+4	08.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129772	129795	23	Business	Heimfahrt	Heimfahrt	08.11.2012				
+5	09.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129795	129819	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	09.11.2012				
+5	09.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129819	129842	23	Business	Heimfahrt	Heimfahrt	09.11.2012				
+6	10.11.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	129842	129865	23	Privat	Privat	Privat	10.11.2012				
+1	12.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129865	129890	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	12.11.2012				
+1	12.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129890	129913	23	Business	Heimfahrt	Heimfahrt	12.11.2012				
+2	13.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	129913	129938	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	13.11.2012				
+2	13.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	129938	129963	25	Business	Heimfahrt	Heimfahrt	13.11.2012				
+2	13.11.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	129963	130015	52	Privat	Privat	Privat	13.11.2012				
+3	14.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	130015	130040	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	14.11.2012				
+3	14.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	130040	130065	25	Business	Heimfahrt	Heimfahrt	14.11.2012				
+4	15.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	130065	130090	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	15.11.2012				
+4	15.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	130090	130115	25	Business	Heimfahrt	Heimfahrt	15.11.2012				
+5	16.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	130115	130140	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	16.11.2012				
+5	16.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	130140	130165	25	Business	Heimfahrt	Heimfahrt	16.11.2012				
+5	16.11.2012	61440 Oberursel (Taunus)	Tannenweg	90459 Nuremberg	Wölckernstrs	130165	130414	249	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	16.11.2012				
+5	16.11.2012	90459 Nuremberg	Wölckernstrs	61440 Oberursel (Taunus)	Tannenweg	130414	130715	301	Business	Heimfahrt (A6 wegen stau)	Heimfahrt (A6 wegen stau)	16.11.2012				
+1	19.11.2012	61440 Oberursel (Taunus)	Tannenweg	90459 Nuremberg	Wölckernstrs	130715	130968	253	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	19.11.2012				
+1	19.11.2012	90459 Nuremberg	Wölckernstrs	60486 Frankfurt	Ederstraße	130968	131220	252	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	19.11.2012				
+1	19.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131220	131244	24	Business	Heimfahrt	Heimfahrt	19.11.2012				
+2	20.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131244	131269	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	20.11.2012				
+2	20.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131269	131293	24	Business	Heimfahrt	Heimfahrt	20.11.2012				
+3	21.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131293	131317	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	21.11.2012				
+3	21.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131317	131341	24	Business	Heimfahrt	Heimfahrt	21.11.2012				
+4	22.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131341	131365	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	22.11.2012				
+4	22.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131365	131391	26	Business	Heimfahrt	Heimfahrt	22.11.2012				
+4	22.11.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	131391	131420	29	Privat	Privat	Privat	22.11.2012				
+5	23.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131420	131444	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	23.11.2012				
+5	23.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131444	131465	21	Business	Heimfahrt	Heimfahrt	23.11.2012				
+7	25.11.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	131465	131501	36	Privat	Privat	Privat	25.11.2012				
+1	26.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131501	131526	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	26.11.2012				
+1	26.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131526	131551	25	Business	Heimfahrt	Heimfahrt	26.11.2012				
+2	27.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131551	131575	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	27.11.2012				
+2	27.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131575	131599	24	Business	Heimfahrt	Heimfahrt	27.11.2012				
+3	28.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131599	131625	26	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	28.11.2012				
+3	28.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131625	131650	25	Business	Heimfahrt	Heimfahrt	28.11.2012				
+4	29.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131650	131675	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	29.11.2012				
+4	29.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131675	131700	25	Business	Heimfahrt	Heimfahrt	29.11.2012				
+5	30.11.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131700	131724	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	30.11.2012				
+5	30.11.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131724	131747	23	Business	Heimfahrt	Heimfahrt	30.11.2012				
+1	03.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131747	131771	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	03.12.2012				
+1	03.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131771	131795	24	Business	Heimfahrt	Heimfahrt	03.12.2012				
+2	04.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131795	131820	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	04.12.2012				
+2	04.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	(null)	131820	131844	24	Business	Heimfahrt	Heimfahrt	04.12.2012				
+3	05.12.2012	61440 Oberursel (Taunus)	(null)	60486 Frankfurt	Ederstraße	131844	131868	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	05.12.2012				
+3	05.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131868	131894	26	Business	Heimfahrt	Heimfahrt	05.12.2012				
+4	06.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131894	131918	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	06.12.2012				
+4	06.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131918	131944	26	Business	Heimfahrt	Heimfahrt	06.12.2012				
+5	07.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	131944	131969	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	07.12.2012				
+5	07.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	131969	131993	24	Business	Heimfahrt	Heimfahrt	07.12.2012				
+5	07.12.2012	61440 Oberursel (Taunus)	Tannenweg	 		131993	132021	28	Business	Partner flughafentransfer	Partner flughafentransfer	07.12.2012				
+5	07.12.2012	 		61440 Oberursel (Taunus)	Tannenweg	132021	132050	29	Business	Heimfahrt	Heimfahrt	07.12.2012				
+6	08.12.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	132050	132060	10	Privat	Privat	Privat	08.12.2012				
+1	10.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132060	132084	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	10.12.2012				
+1	10.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132084	132108	24	Business	Heimfahrt	Heimfahrt	10.12.2012				
+2	11.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132108	132132	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	11.12.2012				
+2	11.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132132	132155	23	Business	Heimfahrt	Heimfahrt	11.12.2012				
+3	12.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132155	132179	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	12.12.2012				
+3	12.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132179	132203	24	Business	Heimfahrt	Heimfahrt	12.12.2012				
+4	13.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132203	132228	25	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	13.12.2012				
+4	13.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132228	132252	24	Business	Heimfahrt	Heimfahrt	13.12.2012				
+5	14.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132252	132275	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	14.12.2012				
+5	14.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132275	132298	23	Business	Heimfahrt	Heimfahrt	14.12.2012				
+1	17.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132298	132322	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	17.12.2012				
+1	17.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132322	132346	24	Business	Heimfahrt	Heimfahrt	17.12.2012				
+2	18.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132346	132369	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	18.12.2012				
+2	18.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132369	132393	24	Business	Heimfahrt	Heimfahrt	18.12.2012				
+3	19.12.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Feldstraße	132393	132417	24	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	19.12.2012				
+3	19.12.2012	61440 Oberursel (Taunus)	Feldstraße	61440 Oberursel (Taunus)	Tannenweg	132417	132440	23	Business	Heimfahrt	Heimfahrt	19.12.2012				
+4	20.12.2012	61440 Oberursel (Taunus)	Tannenweg	60486 Frankfurt	Ederstraße	132440	132463	23	Business	ECSM Commerzbank Limex Projekt	ECSM Commerzbank Limex Projekt	20.12.2012				
+4	20.12.2012	60486 Frankfurt	Ederstraße	61440 Oberursel (Taunus)	Tannenweg	132463	132485	22	Business	Heimfahrt	Heimfahrt	20.12.2012				
+7	23.12.2012	61440 Oberursel (Taunus)	Tannenweg	92705 Dlhá nad Váhom	Dlha Nad Vahom	132485	133419	934	Business	Ecsm Vermittler	Ecsm Vermittler	23.12.2012				
+4	27.12.2012	92705 Dlhá nad Váhom	Dlha Nad Vahom	92705 Dlhá nad Váhom	Dlha Nad Vahom	133419	133433	14	Privat	Private	Private	27.12.2012				
+6	29.12.2012	92705 Dlhá nad Váhom	Dlha Nad Vahom	61440 Oberursel (Taunus)	Tannenweg	133433	134391	958	Business	Heimfahrt	Heimfahrt	29.12.2012				
+7	30.12.2012	61440 Oberursel (Taunus)	Tannenweg	61440 Oberursel (Taunus)	Tannenweg	134391	134447	56	Privat	Privat	Privat	30.12.2012				
+																
+																
