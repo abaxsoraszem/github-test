@@ -20,9 +20,9 @@
 	</properties>
 
 	 <scm>
-		<connection>scm:git:git@github.com:abaxsoraszem/github-test.git</connection>
-		<url>scm:git:git@github.com:abaxsoraszem/github-test.git</url>
-		<developerConnection>scm:git:git@github.com:abaxsoraszem/github-test.git</developerConnection>
+		<connection>scm:git:https@github.com:abaxsoraszem/github-test.git</connection>
+		<url>scm:git:https@github.com:abaxsoraszem/github-test.git</url>
+		<developerConnection>scm:git:https@github.com:abaxsoraszem/github-test.git</developerConnection>
 	  </scm>
 	
 	<build>
